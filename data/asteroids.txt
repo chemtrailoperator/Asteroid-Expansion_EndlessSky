@@ -1,0 +1,167 @@
+
+
+
+minable "Osmium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Iridium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Palladium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Gallium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Plutonium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Manganese"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Scandium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Vanadium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Cobalt"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Carbon"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Lithium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Zinc"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Sulfur"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+
+minable "Nickel"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
+	
+minable "Beryllium"
+	sprite <sprite>
+		[sprite properties...]
+	hull <hull#>
+	"random hull" <hull#>
+	payload <outfit> <count#>
+		"max drops" <count#>
+		"drop rate" <chance#>
+		"toughness" <value#>
+	explode <effect> <count#>
