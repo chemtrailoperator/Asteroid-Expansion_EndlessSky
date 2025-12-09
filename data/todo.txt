@@ -1,0 +1,38 @@
+#elements to add:
+#Osmium
+#Iridium
+#Palladium
+#Gallium
+#Plutonium
+#Manganese
+#Scandium
+#Vanadium
+#Cobalt
+#Carbon
+#Lithium
+#Zinc
+#Sulfur
+#Nickel
+#Beryllium
+
+#Compounds to add:
+#Quartz
+#Glass (Silicon drop chance)
+#Hematite
+#Calcium Carbonate
+#Lithium Floride
+#Steel
+#Bronze
+#Brass
+#Duralumin
+#Rose Gold
+#Graphite no
+#Coal
+#Gypsum no
+#Feldspar no
+#Granite
+#Basalt
+#Obsidian
+#Schist no
+#Chromite no
+#Clay no
