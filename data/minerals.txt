@@ -1,0 +1,301 @@
+
+#Elements Added
+	
+outfit "Osmium"
+	cost 
+	plural "Osmium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Iridium"
+	cost 
+	plural "Iridium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Palladium"
+	cost 
+	plural "Palladium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Gallium"
+	cost 
+	plural "Gallium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Plutonium"
+	cost 
+	plural "Plutonium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Manganite"
+	cost 
+	plural "Manganite"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Scandium"
+	cost 
+	plural "Scandium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Vanadium"
+	cost 
+	plural "Vanadium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Cobalt"
+	cost 
+	plural "Cobalt"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Coal"
+	cost 
+	plural "Coal"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Lithium"
+	cost 
+	plural "Lithium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Zinc"
+	cost 
+	plural "Zinc"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Sulfur"
+	cost 
+	plural "Sulfur"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Nickel"
+	cost 
+	plural "Nickel"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Beryllium"
+	cost 
+	plural "Beryllium"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+
+# Compounds Added
+	
+outfit "Glass"
+	cost 
+	plural "Glass"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Quartz"
+	cost 
+	plural "Quartz"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Basalt"
+	cost 
+	plural "Basalt"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Granite"
+	cost 
+	plural "Granite"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Hematite"
+	cost 
+	plural "Hematite"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Calcite"
+	cost 
+	plural "Calcite"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Steel"
+	cost 
+	plural "Steel"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Bronze"
+	cost 
+	plural "Bronze"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Brass"
+	cost 
+	plural "Brass"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Duralumin"
+	cost 
+	plural "Duralumin"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Obsidian"
+	cost 
+	plural "Obsidian"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+	
+outfit "Schist"
+	cost 
+	plural "Schist"
+	thumbnail "outfit/harvested "
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""

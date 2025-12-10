@@ -20,14 +20,12 @@
 #Glass (Silicon drop chance)
 #Hematite
 #Calcium Carbonate
-#Lithium Floride
 #Steel
 #Bronze
 #Brass
 #Duralumin
-#Rose Gold
 #Graphite no
-#Coal
+#Coal done
 #Gypsum no
 #Feldspar no
 #Granite
