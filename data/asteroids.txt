@@ -1,5 +1,7 @@
 
 
+#Elements Added
+
 minable "superheavy metals"
 	"display name" "Osmiridium"
 	sprite "asteroid/superheavy/spin"
@@ -64,8 +66,8 @@ minable "Plutonium"
 	explode "bolide" 30
 	explode "asteroid crunch medium"
 
-minable "Manganese"
-	sprite "asteroid/manganese/spin"
+minable "Manganite"
+	sprite "asteroid/manganite/spin"
 	hull 3000
 	"random hull" 810
 	payload "Manganese" 20
@@ -162,3 +164,94 @@ minable "Beryllium"
 	explode "smoke" 30
 	explode "bolide" 30
 	explode "asteroid crunch medium"
+	
+# Compounds Added
+
+minable "Glass"
+	"display name" "Silicon"
+	sprite "asteroid/silicon/spin"
+	hull 400
+	"random hull" 80
+	payload "Glass" 25
+		"toughness" 500
+	payload "Quartz" 25
+		"toughness" 5000
+	payload "Granite" 4
+		"toughness" 100000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Hematite"
+	sprite "asteroid/hematite/spin"
+	hull 1200
+	"random hull" 90
+	payload "Glass" 50
+		"toughness" 500
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Calcite"
+	"display name" "Calcite"
+	sprite "asteroid/calcite/spin"
+	hull 500
+	"random hull" 80
+	payload "Calcite" 50
+		"toughness" 4000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Steel"
+	"display name" "Steel"
+	sprite "asteroid/iron/spin"
+	hull 3000
+	"random hull" 200
+	payload "Steel" 30
+		"toughness" 20000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Bronze"
+	"display name" "Tin Alloys"
+	sprite "asteroid/bronze/spin"
+	hull 2000
+	"random hull" 800
+	payload "Bronze" 25
+		"toughness" 50000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Brass"
+	"display name" "Copper Alloys"
+	sprite "asteroid/brass/spin"
+	hull 400
+	"random hull" 80
+	payload "Brass" 20
+		"toughness" 10000
+	payload "Duralumin" 6
+		"toughness" 10000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
+minable "Obsidian"
+	"display name" "Rock"
+	sprite "asteroid/obsidian/spin"
+	hull 4000
+	"random hull" 980
+	payload "Obsidian" 20
+		"toughness" 50000
+	payload "Basalt" 20
+		"toughness" 50000
+	payload "Granite" 4
+		"toughness" 50000
+	payload "Schist" 10
+		"tougness" 20000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+	
