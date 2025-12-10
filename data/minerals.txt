@@ -1,0 +1,30 @@
+
+outfit "Osmium"
+
+outfit "Iridium"
+
+outfit "Palladium"
+
+outfit "Gallium"
+
+outfit "Plutonium"
+
+outfit "Manganese"
+
+outfit "Scandium"
+
+outfit "Vanadium"
+
+outfit "Cobalt"
+
+outfit "Coal"
+
+outfit "Lithium"
+
+outfit "Zinc"
+
+outfit "Sulfur"
+
+outfit "Nickel"
+
+outfit "Beryllium"

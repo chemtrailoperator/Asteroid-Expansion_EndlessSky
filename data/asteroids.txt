@@ -1,167 +1,164 @@
 
 
+minable "superheavy metals"
+	"display name" "Osmiridium"
+	sprite "asteroid/superheavy/spin"
+	hull 5000
+	"random hull" 790
+	payload "Osmium" 8
+		"toughness" 65000
+	payload "Iridium" 8
+		"toughness" 65000
+	payload "Platinum" 4
+		"toughness" 65000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Osmium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/superheavy/spin"
+	hull 5000
+	"random hull" 790
+	payload "Osmium" 10
+		"toughness" 65000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Iridium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/superheavy/spin"
+	hull 4900
+	"random hull" 730
+	payload "Iridium" 12
+		"toughness" 70000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Palladium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/palladium/spin"
+	hull 3500
+	"random hull" 200
+	payload "Palladium" 20
+		"toughness" 30000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Gallium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/gallium/spin"
+	hull 600
+	payload "Gallium" 45
+		"toughness" 10000
+	explode "smoke" 10
+	explode "bolide" 10
+	explode "asteroid crunch small"
 
 minable "Plutonium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/plutonium/spin"
+	hull 3200
+	"random hull" 500
+	payload "Plutonium" 10
+		"toughness" 70000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 
 minable "Manganese"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/manganese/spin"
+	hull 3000
+	"random hull" 810
+	payload "Manganese" 20
+		"toughness" 20000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
+
 
 minable "Scandium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/scandium/spin"
+	hull 4000
+	"random hull" 210
+	payload "Scandium" 26
+		"toughness" 30000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Vanadium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/vanadium/spin"
+	hull 4000
+	"random hull" 500
+	payload "Vanadium" 18
+		"toughness" 30000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
 
 minable "Cobalt"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/cobalt/spin"
+	hull 1900
+	"random hull" 230
+	payload "Cobalt" 14
+		"toughness" 35000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 
-minable "Carbon"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+minable "Coal"
+	sprite "asteroid/coal/spin"
+	hull 1500
+	payload coal 50
+		"toughness" 10000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch large"
 
 minable "Lithium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/lithium/spin"
+	hull 1000
+	payload "Lithium" 40
+		"toughness" 5000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 
 minable "Zinc"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/zinc/spin"
+	hull 1900
+	"random hull" 900
+	payload "Zinc" 30
+		"toughness" 50000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 
 minable "Sulfur"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/sulfur/spin"
+	hull 1200
+	"random hull" 200
+	payload "Sulfur" 20
+		"toughness" 5000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 
 minable "Nickel"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/nickel/spin"
+	hull 2000
+	"random hull" 300
+	payload "Nickel" 18
+		"toughness" 30000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
 	
 minable "Beryllium"
-	sprite <sprite>
-		[sprite properties...]
-	hull <hull#>
-	"random hull" <hull#>
-	payload <outfit> <count#>
-		"max drops" <count#>
-		"drop rate" <chance#>
-		"toughness" <value#>
-	explode <effect> <count#>
+	sprite "asteroid/beryllium/spin"
+	hull 1800
+	"random hull" 860
+	payload "Beryllium" 20
+		"toughness" 10000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
