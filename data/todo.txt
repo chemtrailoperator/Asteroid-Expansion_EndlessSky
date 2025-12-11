@@ -34,3 +34,7 @@
 #Schist no
 #Chromite no
 #Clay no
+
+#Outfits
+#powerful asteroid scanner
+#mining weapon with good prospecting
