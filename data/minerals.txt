@@ -4,7 +4,7 @@
 outfit "Osmium"
 	cost 
 	plural "Osmium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested osmium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -15,7 +15,7 @@ outfit "Osmium"
 outfit "Iridium"
 	cost 
 	plural "Iridium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested iridium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -26,7 +26,7 @@ outfit "Iridium"
 outfit "Palladium"
 	cost 
 	plural "Palladium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested palladium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -37,7 +37,7 @@ outfit "Palladium"
 outfit "Gallium"
 	cost 
 	plural "Gallium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested gallium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -48,7 +48,7 @@ outfit "Gallium"
 outfit "Plutonium"
 	cost 
 	plural "Plutonium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested plutonium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -59,7 +59,7 @@ outfit "Plutonium"
 outfit "Manganite"
 	cost 
 	plural "Manganite"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested manganite"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -70,7 +70,7 @@ outfit "Manganite"
 outfit "Scandium"
 	cost 
 	plural "Scandium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested scandium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -81,7 +81,7 @@ outfit "Scandium"
 outfit "Vanadium"
 	cost 
 	plural "Vanadium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested vanadium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -92,7 +92,7 @@ outfit "Vanadium"
 outfit "Cobalt"
 	cost 
 	plural "Cobalt"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested cobalt"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -103,18 +103,29 @@ outfit "Cobalt"
 outfit "Coal"
 	cost 
 	plural "Coal"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested coal"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
 	"installable" -1
 	mass 1
 	description ""
-	
+
+outfit "Diamond"
+	cost 
+	plural "Coal"
+	thumbnail "outfit/harvested diamond"
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+
 outfit "Lithium"
 	cost 
 	plural "Lithium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested lithium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -125,7 +136,7 @@ outfit "Lithium"
 outfit "Zinc"
 	cost 
 	plural "Zinc"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested zinc"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -136,7 +147,7 @@ outfit "Zinc"
 outfit "Sulfur"
 	cost 
 	plural "Sulfur"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested sulfur"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -147,7 +158,7 @@ outfit "Sulfur"
 outfit "Nickel"
 	cost 
 	plural "Nickel"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested nickel"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -158,7 +169,7 @@ outfit "Nickel"
 outfit "Beryllium"
 	cost 
 	plural "Beryllium"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested beryllium"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -171,7 +182,7 @@ outfit "Beryllium"
 outfit "Glass"
 	cost 
 	plural "Glass"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested glass"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -182,7 +193,7 @@ outfit "Glass"
 outfit "Quartz"
 	cost 
 	plural "Quartz"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested quartz"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -193,7 +204,7 @@ outfit "Quartz"
 outfit "Basalt"
 	cost 
 	plural "Basalt"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested basalt"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -204,7 +215,7 @@ outfit "Basalt"
 outfit "Granite"
 	cost 
 	plural "Granite"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested granite"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -215,7 +226,18 @@ outfit "Granite"
 outfit "Hematite"
 	cost 
 	plural "Hematite"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested hematite"
+	"flotsam sprite" "effect/flotsam "
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description ""
+
+outfit "Magnatite"
+	cost 
+	plural "Magnatite"
+	thumbnail "outfit/harvested magnatite"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -226,7 +248,7 @@ outfit "Hematite"
 outfit "Calcite"
 	cost 
 	plural "Calcite"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested calcite"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -237,7 +259,7 @@ outfit "Calcite"
 outfit "Steel"
 	cost 
 	plural "Steel"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested steel"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -248,7 +270,7 @@ outfit "Steel"
 outfit "Bronze"
 	cost 
 	plural "Bronze"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested bronze"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -259,7 +281,7 @@ outfit "Bronze"
 outfit "Brass"
 	cost 
 	plural "Brass"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested brass"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -270,7 +292,7 @@ outfit "Brass"
 outfit "Duralumin"
 	cost 
 	plural "Duralumin"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested duralumin"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -281,7 +303,7 @@ outfit "Duralumin"
 outfit "Obsidian"
 	cost 
 	plural "Obsidian"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested obsidian"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -292,7 +314,7 @@ outfit "Obsidian"
 outfit "Schist"
 	cost 
 	plural "Schist"
-	thumbnail "outfit/harvested "
+	thumbnail "outfit/harvested schist"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
