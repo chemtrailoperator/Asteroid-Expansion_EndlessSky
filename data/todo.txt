@@ -1,40 +1,60 @@
 #elements to add:
-#Osmium
-#Iridium
+#Osmium - superheavy
+#Iridium - superheavy
 #Palladium
 #Gallium
-#Plutonium
-#Manganese
+#Plutonium - scrap metal
+#Manganite
 #Scandium
 #Vanadium
 #Cobalt
 #Carbon
 #Lithium
-#Zinc
 #Sulfur
 #Nickel
 #Beryllium
 
 #Compounds to add:
-#Quartz
-#Glass (Silicon drop chance)
+#Quartz - granite
+#Glass - silicon
 #Hematite
-#Calcium Carbonate
 #Steel
-#Bronze
 #Brass
-#Duralumin
-#Graphite no
-#Coal done
-#Gypsum no
-#Feldspar no
+#Graphite
+#Coal
+#Gypsum
+#Feldspar
 #Granite
 #Basalt
 #Obsidian
-#Schist no
-#Chromite no
-#Clay no
+#Schist
+#Chromite
 
 #Outfits
 #powerful asteroid scanner
 #mining weapon with good prospecting
+
+#Asteroids
+#Superheavy (drops Osmium and Iridium)
+#Palladium
+#Gallium
+#Manganite
+#Scandium
+#Vanadium
+#Cobalt
+#Tin
+#Zirconium
+#Calcium
+#Beryllium
+#Sulfur
+#Chromium
+#Granite (drops quartz and granite)
+#Hematite
+#Magnetite
+#Gypsum
+#Schist
+#Chromite
+#Basalt (drops obsidian and basalt)
+#Silicon (drops glass)
+#Coal (drops coal, diamond, and graphite)
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass)
