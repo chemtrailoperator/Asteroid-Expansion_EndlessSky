@@ -2,7 +2,7 @@
 #Elements Added
 	
 outfit "Osmium"
-	cost 
+	cost 7000
 	plural "Osmium"
 	thumbnail "outfit/harvested osmium"
 	"flotsam sprite" "effect/flotsam "
@@ -13,7 +13,7 @@ outfit "Osmium"
 	description ""
 	
 outfit "Iridium"
-	cost 
+	cost 12000
 	plural "Iridium"
 	thumbnail "outfit/harvested iridium"
 	"flotsam sprite" "effect/flotsam "
@@ -24,7 +24,7 @@ outfit "Iridium"
 	description ""
 	
 outfit "Palladium"
-	cost 
+	cost 4000
 	plural "Palladium"
 	thumbnail "outfit/harvested palladium"
 	"flotsam sprite" "effect/flotsam "
@@ -35,7 +35,7 @@ outfit "Palladium"
 	description ""
 	
 outfit "Gallium"
-	cost 
+	cost 200
 	plural "Gallium"
 	thumbnail "outfit/harvested gallium"
 	"flotsam sprite" "effect/flotsam "
@@ -46,7 +46,7 @@ outfit "Gallium"
 	description ""
 	
 outfit "Plutonium"
-	cost 
+	cost 300000
 	plural "Plutonium"
 	thumbnail "outfit/harvested plutonium"
 	"flotsam sprite" "effect/flotsam "
@@ -57,7 +57,7 @@ outfit "Plutonium"
 	description ""
 	
 outfit "Manganite"
-	cost 
+	cost 300
 	plural "Manganite"
 	thumbnail "outfit/harvested manganite"
 	"flotsam sprite" "effect/flotsam "
@@ -68,7 +68,7 @@ outfit "Manganite"
 	description ""
 	
 outfit "Scandium"
-	cost 
+	cost 4000
 	plural "Scandium"
 	thumbnail "outfit/harvested scandium"
 	"flotsam sprite" "effect/flotsam "
@@ -79,7 +79,7 @@ outfit "Scandium"
 	description ""
 	
 outfit "Vanadium"
-	cost 
+	cost 2000
 	plural "Vanadium"
 	thumbnail "outfit/harvested vanadium"
 	"flotsam sprite" "effect/flotsam "
@@ -90,7 +90,7 @@ outfit "Vanadium"
 	description ""
 	
 outfit "Cobalt"
-	cost 
+	cost 100
 	plural "Cobalt"
 	thumbnail "outfit/harvested cobalt"
 	"flotsam sprite" "effect/flotsam "
@@ -101,7 +101,7 @@ outfit "Cobalt"
 	description ""
 	
 outfit "Coal"
-	cost 
+	cost 50
 	plural "Coal"
 	thumbnail "outfit/harvested coal"
 	"flotsam sprite" "effect/flotsam "
@@ -112,7 +112,7 @@ outfit "Coal"
 	description ""
 
 outfit "Diamond"
-	cost 
+	cost 20000
 	plural "Coal"
 	thumbnail "outfit/harvested diamond"
 	"flotsam sprite" "effect/flotsam "
@@ -123,7 +123,7 @@ outfit "Diamond"
 	description ""
 
 outfit "Lithium"
-	cost 
+	cost 300
 	plural "Lithium"
 	thumbnail "outfit/harvested lithium"
 	"flotsam sprite" "effect/flotsam "
@@ -134,7 +134,7 @@ outfit "Lithium"
 	description ""
 	
 outfit "Zinc"
-	cost 
+	cost 200
 	plural "Zinc"
 	thumbnail "outfit/harvested zinc"
 	"flotsam sprite" "effect/flotsam "
@@ -145,7 +145,7 @@ outfit "Zinc"
 	description ""
 	
 outfit "Sulfur"
-	cost 
+	cost 100
 	plural "Sulfur"
 	thumbnail "outfit/harvested sulfur"
 	"flotsam sprite" "effect/flotsam "
@@ -156,7 +156,7 @@ outfit "Sulfur"
 	description ""
 	
 outfit "Nickel"
-	cost 
+	cost 200
 	plural "Nickel"
 	thumbnail "outfit/harvested nickel"
 	"flotsam sprite" "effect/flotsam "
@@ -167,7 +167,7 @@ outfit "Nickel"
 	description ""
 	
 outfit "Beryllium"
-	cost 
+	cost 500
 	plural "Beryllium"
 	thumbnail "outfit/harvested beryllium"
 	"flotsam sprite" "effect/flotsam "
@@ -180,7 +180,7 @@ outfit "Beryllium"
 # Compounds Added
 	
 outfit "Glass"
-	cost 
+	cost 20
 	plural "Glass"
 	thumbnail "outfit/harvested glass"
 	"flotsam sprite" "effect/flotsam "
@@ -191,7 +191,7 @@ outfit "Glass"
 	description ""
 	
 outfit "Quartz"
-	cost 
+	cost 1000
 	plural "Quartz"
 	thumbnail "outfit/harvested quartz"
 	"flotsam sprite" "effect/flotsam "
@@ -202,7 +202,7 @@ outfit "Quartz"
 	description ""
 	
 outfit "Basalt"
-	cost 
+	cost 100
 	plural "Basalt"
 	thumbnail "outfit/harvested basalt"
 	"flotsam sprite" "effect/flotsam "
@@ -213,7 +213,7 @@ outfit "Basalt"
 	description ""
 	
 outfit "Granite"
-	cost 
+	cost 200
 	plural "Granite"
 	thumbnail "outfit/harvested granite"
 	"flotsam sprite" "effect/flotsam "
@@ -224,7 +224,7 @@ outfit "Granite"
 	description ""
 	
 outfit "Hematite"
-	cost 
+	cost 100
 	plural "Hematite"
 	thumbnail "outfit/harvested hematite"
 	"flotsam sprite" "effect/flotsam "
@@ -234,10 +234,10 @@ outfit "Hematite"
 	mass 1
 	description ""
 
-outfit "Magnatite"
-	cost 
-	plural "Magnatite"
-	thumbnail "outfit/harvested magnatite"
+outfit "Magnetite"
+	cost 100
+	plural "Magnetite"
+	thumbnail "outfit/harvested magnetite"
 	"flotsam sprite" "effect/flotsam "
 	category "Minerals"
 	"minable" 1
@@ -257,7 +257,7 @@ outfit "Calcite"
 	description ""
 	
 outfit "Steel"
-	cost 
+	cost 300
 	plural "Steel"
 	thumbnail "outfit/harvested steel"
 	"flotsam sprite" "effect/flotsam "
@@ -268,7 +268,7 @@ outfit "Steel"
 	description ""
 	
 outfit "Bronze"
-	cost 
+	cost 500
 	plural "Bronze"
 	thumbnail "outfit/harvested bronze"
 	"flotsam sprite" "effect/flotsam "
@@ -279,7 +279,7 @@ outfit "Bronze"
 	description ""
 	
 outfit "Brass"
-	cost 
+	cost 500
 	plural "Brass"
 	thumbnail "outfit/harvested brass"
 	"flotsam sprite" "effect/flotsam "
@@ -290,7 +290,7 @@ outfit "Brass"
 	description ""
 	
 outfit "Duralumin"
-	cost 
+	cost 1000
 	plural "Duralumin"
 	thumbnail "outfit/harvested duralumin"
 	"flotsam sprite" "effect/flotsam "
@@ -301,7 +301,7 @@ outfit "Duralumin"
 	description ""
 	
 outfit "Obsidian"
-	cost 
+	cost 2000
 	plural "Obsidian"
 	thumbnail "outfit/harvested obsidian"
 	"flotsam sprite" "effect/flotsam "
@@ -312,7 +312,7 @@ outfit "Obsidian"
 	description ""
 	
 outfit "Schist"
-	cost 
+	cost 100
 	plural "Schist"
 	thumbnail "outfit/harvested schist"
 	"flotsam sprite" "effect/flotsam "
