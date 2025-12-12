@@ -5,7 +5,7 @@ outfit "Osmium"
 	cost 7000
 	plural "Osmium"
 	thumbnail "outfit/harvested osmium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam osmium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -16,7 +16,7 @@ outfit "Iridium"
 	cost 12000
 	plural "Iridium"
 	thumbnail "outfit/harvested iridium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam iridium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -27,7 +27,7 @@ outfit "Palladium"
 	cost 4000
 	plural "Palladium"
 	thumbnail "outfit/harvested palladium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam palladium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -38,7 +38,7 @@ outfit "Gallium"
 	cost 200
 	plural "Gallium"
 	thumbnail "outfit/harvested gallium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam gallium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -49,7 +49,7 @@ outfit "Plutonium"
 	cost 300000
 	plural "Plutonium"
 	thumbnail "outfit/harvested plutonium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam plutonium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -60,7 +60,7 @@ outfit "Manganite"
 	cost 300
 	plural "Manganite"
 	thumbnail "outfit/harvested manganite"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam manganite"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -71,7 +71,7 @@ outfit "Scandium"
 	cost 4000
 	plural "Scandium"
 	thumbnail "outfit/harvested scandium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam scandium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -82,7 +82,7 @@ outfit "Vanadium"
 	cost 2000
 	plural "Vanadium"
 	thumbnail "outfit/harvested vanadium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam vanadium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -93,7 +93,7 @@ outfit "Cobalt"
 	cost 100
 	plural "Cobalt"
 	thumbnail "outfit/harvested cobalt"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam cobalt"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -104,7 +104,7 @@ outfit "Coal"
 	cost 50
 	plural "Coal"
 	thumbnail "outfit/harvested coal"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam coal"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -115,7 +115,7 @@ outfit "Diamond"
 	cost 20000
 	plural "Coal"
 	thumbnail "outfit/harvested diamond"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam diamond"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -126,7 +126,7 @@ outfit "Lithium"
 	cost 300
 	plural "Lithium"
 	thumbnail "outfit/harvested lithium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam lithium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -137,7 +137,7 @@ outfit "Zinc"
 	cost 200
 	plural "Zinc"
 	thumbnail "outfit/harvested zinc"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam zinc"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -148,7 +148,7 @@ outfit "Sulfur"
 	cost 100
 	plural "Sulfur"
 	thumbnail "outfit/harvested sulfur"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam sulfur"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -159,7 +159,7 @@ outfit "Nickel"
 	cost 200
 	plural "Nickel"
 	thumbnail "outfit/harvested nickel"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam nickel"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -170,7 +170,7 @@ outfit "Beryllium"
 	cost 500
 	plural "Beryllium"
 	thumbnail "outfit/harvested beryllium"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam beryllium"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -183,7 +183,7 @@ outfit "Glass"
 	cost 20
 	plural "Glass"
 	thumbnail "outfit/harvested glass"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam glass"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -194,7 +194,7 @@ outfit "Quartz"
 	cost 1000
 	plural "Quartz"
 	thumbnail "outfit/harvested quartz"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam quartz"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -205,7 +205,7 @@ outfit "Basalt"
 	cost 100
 	plural "Basalt"
 	thumbnail "outfit/harvested basalt"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam basalt"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -216,7 +216,7 @@ outfit "Granite"
 	cost 200
 	plural "Granite"
 	thumbnail "outfit/harvested granite"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam granite"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -227,7 +227,7 @@ outfit "Hematite"
 	cost 100
 	plural "Hematite"
 	thumbnail "outfit/harvested hematite"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam hematite"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -238,7 +238,7 @@ outfit "Magnetite"
 	cost 100
 	plural "Magnetite"
 	thumbnail "outfit/harvested magnetite"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam magnetite"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -249,7 +249,7 @@ outfit "Calcite"
 	cost 
 	plural "Calcite"
 	thumbnail "outfit/harvested calcite"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam calcite"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -260,7 +260,7 @@ outfit "Steel"
 	cost 300
 	plural "Steel"
 	thumbnail "outfit/harvested steel"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam steel"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -271,7 +271,7 @@ outfit "Bronze"
 	cost 500
 	plural "Bronze"
 	thumbnail "outfit/harvested bronze"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam bronze"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -282,7 +282,7 @@ outfit "Brass"
 	cost 500
 	plural "Brass"
 	thumbnail "outfit/harvested brass"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam brass"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -293,7 +293,7 @@ outfit "Duralumin"
 	cost 1000
 	plural "Duralumin"
 	thumbnail "outfit/harvested duralumin"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam duralumin"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -304,7 +304,7 @@ outfit "Obsidian"
 	cost 2000
 	plural "Obsidian"
 	thumbnail "outfit/harvested obsidian"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam obsidian"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
@@ -315,7 +315,7 @@ outfit "Schist"
 	cost 100
 	plural "Schist"
 	thumbnail "outfit/harvested schist"
-	"flotsam sprite" "effect/flotsam "
+	"flotsam sprite" "effect/flotsam schist"
 	category "Minerals"
 	"minable" 1
 	"installable" -1
