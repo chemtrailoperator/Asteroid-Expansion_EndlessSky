@@ -278,3 +278,14 @@ outfit "Schist"
 	"installable" -1
 	mass 1
 	description "Schist is a completely uninteresting rock."
+
+outfit "Feldspar"
+	cost 100
+	plural "Feldspar"
+	thumbnail "outfit/harvested feldspar"
+	"flotsam sprite" "effect/flotsam feldspar"
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description "Feldspar rock is a mix of a variety of crystals and silicates. It is essentially useless in the modern world."
