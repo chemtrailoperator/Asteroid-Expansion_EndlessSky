@@ -143,10 +143,10 @@ outfit "Sulfur"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Sulfur is an abundant nonmetallic element that has a strong smell. It is useful in making conventional munitions and propellants."
 	
 outfit "Nickel"
-	cost 200
+	cost 600
 	plural "Nickel"
 	thumbnail "outfit/harvested nickel"
 	"flotsam sprite" "effect/flotsam nickel"
@@ -154,7 +154,7 @@ outfit "Nickel"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Nickel is used in batteries and metal alloys. It is also a necessary component in atomic engines."
 	
 outfit "Beryllium"
 	cost 500
@@ -165,7 +165,7 @@ outfit "Beryllium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Beyllium is a hard and brittle material, it is useful in various scientific applications and it is valuable because of its rarity."
 
 # Compounds Added
 	
@@ -178,7 +178,7 @@ outfit "Glass"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Glass is formed by the heat of your weapons against Silicon powder in asteroids. That said, its basically useless unless it is manufactured in a pure form."
 	
 outfit "Quartz"
 	cost 1000
@@ -189,7 +189,7 @@ outfit "Quartz"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Quartz is a form of Silicon Dioxide that forms pretty crystals. When charged pizzoelectrically, Quartz oscilates in a regular manner and it is used in clocks."
 	
 outfit "Basalt"
 	cost 100
@@ -200,7 +200,7 @@ outfit "Basalt"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Basalt is igneous rock blasted off of planets and asteroids when they interact. It is basically useless."
 	
 outfit "Granite"
 	cost 200
@@ -211,7 +211,7 @@ outfit "Granite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Granite is mostly composed of Silicon, and its beautiful appearance makes it popular for use in buildings on planets, but it is too heavy and brittle to be of much use in a spaceship."
 	
 outfit "Hematite"
 	cost 100
@@ -222,7 +222,7 @@ outfit "Hematite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Hematite is a variant of Iron Oxide. It is valuable as Iron ore."
 
 outfit "Magnetite"
 	cost 100
@@ -233,18 +233,7 @@ outfit "Magnetite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
-	
-outfit "Calcite"
-	cost 
-	plural "Calcite"
-	thumbnail "outfit/harvested calcite"
-	"flotsam sprite" "effect/flotsam calcite"
-	category "Minerals"
-	"minable" 1
-	"installable" -1
-	mass 1
-	description ""
+	description "Magnetite is another variant of Iorn Oxide. It is a simple and ferromagnetic mineral abundant in most parts of the galaxy."
 	
 outfit "Steel"
 	cost 300
@@ -255,18 +244,7 @@ outfit "Steel"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
-	
-outfit "Bronze"
-	cost 500
-	plural "Bronze"
-	thumbnail "outfit/harvested bronze"
-	"flotsam sprite" "effect/flotsam bronze"
-	category "Minerals"
-	"minable" 1
-	"installable" -1
-	mass 1
-	description ""
+	description "Steel is comprised of a variety of different Iron alloys. Steel in space comes from the remains of spaceships that have degraded in space."
 	
 outfit "Brass"
 	cost 500
@@ -277,18 +255,7 @@ outfit "Brass"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
-	
-outfit "Duralumin"
-	cost 1000
-	plural "Duralumin"
-	thumbnail "outfit/harvested duralumin"
-	"flotsam sprite" "effect/flotsam duralumin"
-	category "Minerals"
-	"minable" 1
-	"installable" -1
-	mass 1
-	description ""
+	description "Brass is an alloy of copper and tin, its heat and electrical conductivity make it popular in ship components. Essentially all of the brass in space comes from destroyed starships."
 	
 outfit "Obsidian"
 	cost 2000
@@ -299,7 +266,7 @@ outfit "Obsidian"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Obsidian is igneous glass that becomes very sharp when broken. Scalpels and other instruments of surgery can be fashioned from obsidian."
 	
 outfit "Schist"
 	cost 100
@@ -310,4 +277,4 @@ outfit "Schist"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Schist is a completely uninteresting rock."
