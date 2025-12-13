@@ -1,0 +1,7 @@
+system "Kornephoros"
+	remove asteroids "small rock" 127 10.44
+	remove asteroids "medium rock" 96 8.787
+	remove asteroids "large rock" 24 12.528
+	remove asteroids "small metal" 4 7.221
+	remove asteroids "medium metal" 143 8.352
+	remove asteroids "large metal" 7 11.745
