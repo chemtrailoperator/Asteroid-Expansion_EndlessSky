@@ -10,7 +10,7 @@ outfit "Osmium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Hard, brittle, bluish metal. Popular in allows. When combined in alloys with Iridium, it forms the densest metal known to man. Unfortunately, this density makes it impossible to incorporate it into ships."
 	
 outfit "Iridium"
 	cost 12000
@@ -21,7 +21,8 @@ outfit "Iridium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Iridium is an extremely hard, brittle, silvery metal. Popular in allows. When combined in alloys with Osmium, it forms the densest metal known to man, which makes it difficult and unweidly in ship design."
+
 	
 outfit "Palladium"
 	cost 4000
@@ -32,7 +33,7 @@ outfit "Palladium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Lustrous, silvery metal. Useful because its bright sheen makes it beautiful when used for plating."
 	
 outfit "Gallium"
 	cost 200
@@ -43,7 +44,7 @@ outfit "Gallium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "A soft, silvery metal with a very low melting point. Such a low melting point that it will become soft in your hand, not very useful otherwise."
 	
 outfit "Plutonium"
 	cost 300000
@@ -54,7 +55,7 @@ outfit "Plutonium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Plutonium is a silvery grey metal that tarnishes quickly. It is also extremely radioactive, so it is heavily regulated all human governments. The remnants you can mine are the destroyed remnants of various nuclear reactors, batteries, and weapons."
 	
 outfit "Manganite"
 	cost 300
@@ -65,7 +66,7 @@ outfit "Manganite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Manganite is a mineral composed mostly of manganese. It isn't terribly useful."
 	
 outfit "Scandium"
 	cost 4000
@@ -76,7 +77,7 @@ outfit "Scandium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Scandium is a silvery metal that is useful in many alloys used in shipbuilding."
 	
 outfit "Vanadium"
 	cost 2000
@@ -87,10 +88,10 @@ outfit "Vanadium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Vanadium is useful in alloys and batteries. Alloys containing vanadium date back long before human spaceflight."
 	
 outfit "Cobalt"
-	cost 100
+	cost 500
 	plural "Cobalt"
 	thumbnail "outfit/harvested cobalt"
 	"flotsam sprite" "effect/flotsam cobalt"
@@ -98,10 +99,10 @@ outfit "Cobalt"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Cobalt is an important, but very common metal, meaning it isn't very valuable at all."
 	
 outfit "Coal"
-	cost 50
+	cost 300
 	plural "Coal"
 	thumbnail "outfit/harvested coal"
 	"flotsam sprite" "effect/flotsam coal"
@@ -109,7 +110,7 @@ outfit "Coal"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Coal is a form of pure Carbon that is formed deep in the crusts of planets. It is common on planets but rare in space."
 
 outfit "Diamond"
 	cost 20000
@@ -120,7 +121,7 @@ outfit "Diamond"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
+	description "Another form of pure Carbon, formed deep in the crusts of seismically active planets. It is valuable both as the hardest mineral short of Yottrite, and as a beautiful gemstone."
 
 outfit "Lithium"
 	cost 300
@@ -131,18 +132,7 @@ outfit "Lithium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description ""
-	
-outfit "Zinc"
-	cost 200
-	plural "Zinc"
-	thumbnail "outfit/harvested zinc"
-	"flotsam sprite" "effect/flotsam zinc"
-	category "Minerals"
-	"minable" 1
-	"installable" -1
-	mass 1
-	description ""
+	description "Lithium is important as a component of hyperspace fuel, but it is the third-most common element in the galaxy."
 	
 outfit "Sulfur"
 	cost 100
