@@ -346,6 +346,8 @@ minable "Basalt"
 	explode "smoke" 40
 	explode "bolide" 40
 	explode "asteroid crunch large"
+
+#Purpose Mixed Asteroids (Some others can drop multiple things, but these have no specific element.)
 	
 minable "Scrap Metals"
 	"display name" "Scrap Metal"
@@ -366,3 +368,332 @@ minable "Scrap Metals"
 		"toughness" 10000
 	payload "Glass" 10
 		"toughness" 9000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
+	
+#The following mixed asteroids are specifically designed to replace the small/medium/large rock/metal asteroids that clog up most systems
+
+minable "rock small"
+	"display name" "Rock"
+	sprite "asteroid/small rock/spin"
+	hull 1200
+	"random hull" 700
+	payload "Graphite" 1
+		"toughness" 1500
+	payload "Coal" 1
+		"toughness" 1500
+	payload "Gypsum" 1
+		"toughness" 1500
+	payload "Granite" 1
+		"toughness" 1500
+	payload "Schist" 1
+		"toughness" 1500
+	payload "Glass" 1
+		"toughness" 1500
+	payload "Quartz" 1
+		"toughness" 1500
+	payload "Obsidian" 1
+		"toughness" 1500
+	payload "Carbon" 1
+		"toughness" 1500
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
+	
+minable "rock medium"
+	"display name" "Rock"
+	sprite "asteroid/medium rock/spin"
+	hull 1600
+	"random hull" 700
+	payload "Graphite" 2
+		"toughness" 3000
+	payload "Coal" 2
+		"toughness" 3000
+	payload "Gypsum" 2
+		"toughness" 3000
+	payload "Granite" 2
+		"toughness" 3000
+	payload "Schist" 2
+		"toughness" 3000
+	payload "Glass" 2
+		"toughness" 3000
+	payload "Quartz" 2
+		"toughness" 3000
+	payload "Obsidian" 2
+		"toughness" 3000
+	payload "Carbon" 2
+		"toughness" 3000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
+
+minable "rock large"
+	"display name" "Rock"
+	sprite "asteroid/large rock/spin"
+	hull 2500
+	"random hull" 700
+	payload "Graphite" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Coal" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Gypsum" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Granite" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Schist" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Glass" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Quartz" 3
+		"toughness" 10000
+		"drop rate" 0.2
+	payload "Obsidian" 3
+		"toughness" 10000
+		"drop rate" 0.1
+	payload "Carbon" 3
+		"drop rate" 0.2
+		"toughness" 8000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
+
+minable "metal small"
+	"display name" "Metal"
+	sprite "asteroid/small metal/spin"
+	hull 1000
+	"random hull" 500
+	payload "Osmium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Iridium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Palladium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Gallium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Manganite" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Scandium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Vanadium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Cobalt" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Lithium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Sulfur" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Nickel" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Beryllium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Aluminum" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Copper" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Iron" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Tungsten" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Gold" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Platinum" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Lead" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Neodymium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Silver" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Titanium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	payload "Uranium" 1
+		"drop rate" 0.1
+		"toughness" 8000
+	explode "smoke" 20
+	explode "bolide" 20
+	explode "asteroid crunch small"
+	
+minable "metal medium"
+	"display name" "Metal"
+	sprite "asteroid/medium metal/spin"
+	hull 2000
+	"random hull" 500
+	payload "Osmium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Iridium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Palladium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Gallium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Manganite" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Scandium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Vanadium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Cobalt" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Lithium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Sulfur" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Nickel" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Beryllium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Aluminum" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Copper" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Iron" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Tungsten" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Gold" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Platinum" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Lead" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Neodymium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Silver" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Titanium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	payload "Uranium" 2
+		"drop rate" 0.2
+		"toughness" 16000
+	explode "smoke" 30
+	explode "bolide" 30
+	explode "asteroid crunch medium"
+
+minable "metal large"
+	"display name" "Metal"
+	sprite "asteroid/large metal/spin"
+	hull 3000
+	"random hull" 500
+	payload "Osmium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Iridium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Palladium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Gallium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Manganite" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Scandium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Vanadium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Cobalt" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Lithium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Sulfur" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Nickel" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Beryllium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Aluminum" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Copper" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Iron" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Tungsten" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Gold" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Platinum" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Lead" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Neodymium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Silver" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Titanium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	payload "Uranium" 3
+		"drop rate" 0.1
+		"toughness" 24000
+	explode "smoke" 40
+	explode "bolide" 40
+	explode "asteroid crunch large"
