@@ -35,24 +35,24 @@
 #mining weapon with good prospecting
 
 #Asteroids
-#Superheavy (drops Osmium and Iridium)
-#Palladium
-#Gallium
-#Manganite
-#Scandium
-#Vanadium
-#Cobalt
-#Tin
-#Zirconium
-#Calcium
-#Beryllium
-#Sulfur
-#Chromium
-#Granite (drops quartz and granite)
-#Hematite
-#Magnetite
-#Gypsum
-#Schist
+#Superheavy (drops Osmium and Iridium) done
+#Palladium done
+#Gallium done
+#Manganite done
+#Scandium done
+#Vanadium done
+#Cobalt done
+#Tin done
+#Zirconium done
+#Calcium done
+#Beryllium done
+#Sulfur done
+#Chromium done
+#Granite (drops quartz and granite) done
+#Hematite .
+#Magnetite .
+#Gypsum .
+#Schist .
 #Chromite
 #Basalt (drops obsidian and basalt)
 #Silicon (drops glass)
