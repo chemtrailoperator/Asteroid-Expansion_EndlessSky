@@ -34,27 +34,28 @@
 #powerful asteroid scanner
 #mining weapon with good prospecting
 
-#Asteroids
-#Superheavy (drops Osmium and Iridium) done
-#Palladium done
-#Gallium done
-#Manganite done
-#Scandium done
-#Vanadium done
-#Cobalt done
-#Tin done
-#Zirconium done
-#Calcium done
-#Beryllium done
-#Sulfur done
-#Chromium done
-#Granite (drops quartz and granite) done
-#Hematite .
-#Magnetite .
-#Gypsum .
-#Schist .
-#Chromite
-#Basalt (drops obsidian and basalt)
-#Silicon (drops glass)
-#Coal (drops coal, diamond, and graphite)
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass)
+#Asteroids																						Systems:
+#Superheavy (drops Osmium and Iridium) done														-
+#Palladium done																					-
+#Gallium done																					-
+#Manganite done																					-
+#Scandium done																					-
+#Vanadium done																					-
+#Cobalt done																					-
+#Tin done																						-
+#Zirconium done																					-
+#Calcium done																					-
+#Beryllium done																					-
+#Sulfur done																					-
+#Chromium done																					-
+#Granite (drops quartz and granite) done														- 
+#Hematite .																						- Minkar, Vindemiatrix, Citadelle, Alnilam, Tortor, Mirzam, Ultima Thule, Wazn, Zosma, Miaplacidus, Misam, Capella, Zaurak, Sirius, Sol, Nocte, Markab, Rasalhauge, Delta Sagittarii, Albaldah, Sadr, Atria, Antares, Aldihibain, Zubenelgenubi, 
+#Magnetite .																					- Hatysa, Almaaz, Gorvi, Mebsuta, Suhail, Mirfak, Oblate, Elnath, Alhena, Talita, Acamar, Menkar, Procyon, Eteron, Fingol, Al Dhanab, Achenar, Almach, Delta Capricorni, Tais, Eltanin, Nunki, Sadalmelik, Dschubba, Graffias, Sabik, Alnasl
+#Gypsum .																						- Porrima, Regulus, Alheka, Avior, Markeb, Wezen, Gomeisa, Zosma, Alphard
+#Schist .																						- Tais, Naper, Tarazed, Nocte, Vega, Menkent, Sirius, Eteron, Sol, Danoa, Sumar, Hassaleh, Rajak, Cardax, Volax, Ruchbah, Ankaa
+#Chromite																						- Cor Caroli, Algorel, Eber, Alpha Arae, Kaus Borealis, Zeta Aquilae
+#Basalt (drops obsidian and basalt)																- Arneb, Ildaria, Rutilicus, Cebalrai, Rasalhauge, Kraz, Mimosa, Minkar, Acrux, Canopus, Alheka, Betelguese
+#Silicon (drops glass)																			- Anywhere there is already silicon
+#Coal (drops coal, diamond, and graphite)														- Alniyat, Zubeneschamali, Ildaria, Arneb
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph 
+
