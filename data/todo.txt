@@ -39,15 +39,15 @@
 #Palladium done									1-2 / system									- Tais, Sadalsuud, Eber, Delta Velorum, Yed Prior, Seginus, Capella, Wazn, Canopus
 #Gallium done									2-3 / system									- Sirius, Achernar, Alioth, Alkaid, Ildaria
 #Manganite done									2-4 / system									- Menkar, Eteron, Rasalhague, Ascella, Sargas
-#Scandium done									1 / system										- Suhail, Adhara, Delta Velorum, Yed Prior, Kornephoros, Shaula
-#Vanadium done									1 / system										- Betelgeuse, Turais, Men, Seginus, Enif
+#Scandium done									1 / system										- Suhail, Adhara (2x), Delta Velorum, Yed Prior, Kornephoros, Shaula (2x)
+#Vanadium done									1 / system										- Betelgeuse (2x), Turais, Men, Seginus, Enif
 #Cobalt done									2-3 / system									- Rasalhague, Hintar, Alnasl, Muhlifain, Ildaria, Zubeneschamali, 
-#Tin done																						-
+#Tin done																						- 
 #Zirconium done									2-3 / system									- Rastaban, Vindemiatrix, Minkar, Girtab, Saiph, Markeb, Diphda, Caph
 #Calcium done									4-6 / system									- Bellatrix, Rasalhague, Alphard, Volax, Izar, Gamma Corvi, Arcturus, Ildaria, Alniyat
 #Beryllium done									2-5 / system									- Markab, Ildaria, Betelguese, Arcturus, Ipsing, Gamma Cassopeiae (not a typo), Algol, 
-#Sulfur done																					- Han, Alniyat, Alnilam (2x), Beta Lupi, Peacock, Mebsuta, Tejat, Citadelle, Alioth, Hadar, Albireo
-#Chromium done																					- Deneb, Kochab, Phecda, Dubhe, Aludra, Lurata, Spica
+#Sulfur done									1-4 / system									- Han, Alniyat, Alnilam (2x), Beta Lupi, Peacock, Mebsuta, Tejat, Citadelle, Alioth, Hadar, Albireo
+#Chromium done									3-4 / system									- Deneb, Kochab, Phecda, Dubhe, Aludra, Lurata, Spica
 #Granite (drops quartz and granite) done														- Denebola, Markeb, Avior, Dabih, Rastaban, Ildaria, Fumalsamakah, Turais, Schedar, Persian, Sospi, Danoa, Menkent, Alnilam
 #Hematite .																						- Minkar, Vindemiatrix, Citadelle, Alnilam, Tortor, Mirzam, Ultima Thule, Wazn, Zosma, Miaplacidus, Misam, Capella, Zaurak, Sirius, Sol, Nocte, Markab, Rasalhauge, Delta Sagittarii, Albaldah, Sadr, Atria, Antares, Aldihibain, Zubenelgenubi, 
 #Magnetite .																					- Hatysa, Almaaz, Gorvi, Mebsuta, Suhail, Mirfak, Oblate, Elnath, Alhena, Talita, Acamar, Menkar, Procyon, Eteron, Fingol, Al Dhanab, Achenar, Almach, Delta Capricorni, Tais, Eltanin, Nunki, Sadalmelik, Dschubba, Graffias, Sabik, Alnasl
