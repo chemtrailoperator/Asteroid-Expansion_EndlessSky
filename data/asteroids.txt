@@ -381,22 +381,31 @@ minable "rock small"
 	"random hull" 700
 	payload "Graphite" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Coal" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Gypsum" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Granite" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Schist" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Glass" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Quartz" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Obsidian" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	payload "Carbon" 1
 		"toughness" 1500
+		"drop rate" 0.01
 	explode "smoke" 20
 	explode "bolide" 20
 	explode "asteroid crunch small"
@@ -408,22 +417,31 @@ minable "rock medium"
 	"random hull" 700
 	payload "Graphite" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Coal" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Gypsum" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Granite" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Schist" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Glass" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Quartz" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Obsidian" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	payload "Carbon" 2
 		"toughness" 3000
+		"drop rate" 0.01
 	explode "smoke" 30
 	explode "bolide" 30
 	explode "asteroid crunch medium"
@@ -435,30 +453,30 @@ minable "rock large"
 	"random hull" 700
 	payload "Graphite" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Coal" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Gypsum" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Granite" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Schist" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Glass" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Quartz" 3
 		"toughness" 10000
-		"drop rate" 0.2
+		"drop rate" 0.01
 	payload "Obsidian" 3
 		"toughness" 10000
-		"drop rate" 0.1
+		"drop rate" 0.01
 	payload "Carbon" 3
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 8000
 	explode "smoke" 40
 	explode "bolide" 40
@@ -470,73 +488,82 @@ minable "metal small"
 	hull 1000
 	"random hull" 500
 	payload "Osmium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Iridium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Palladium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Gallium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Manganite" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Scandium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Vanadium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Cobalt" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Lithium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Sulfur" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Nickel" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Beryllium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Aluminum" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Copper" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Iron" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Tungsten" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Gold" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Platinum" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Lead" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Neodymium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Silver" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Titanium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 8000
 	payload "Uranium" 1
-		"drop rate" 0.1
+		"drop rate" 0.01
+		"toughness" 8000
+	payload "Hematite" 1
+		"drop rate" 0.01
+		"toughness" 8000
+	payload "Magnatite" 1
+		"drop rate" 0.01
+		"toughness" 8000
+	payload "Chromite" 1
+		"drop rate" 0.01
 		"toughness" 8000
 	explode "smoke" 20
 	explode "bolide" 20
@@ -548,73 +575,82 @@ minable "metal medium"
 	hull 2000
 	"random hull" 500
 	payload "Osmium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Iridium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Palladium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Gallium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Manganite" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Scandium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Vanadium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Cobalt" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Lithium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Sulfur" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Nickel" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Beryllium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Aluminum" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Copper" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Iron" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Tungsten" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Gold" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Platinum" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Lead" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Neodymium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Silver" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Titanium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
 		"toughness" 16000
 	payload "Uranium" 2
-		"drop rate" 0.2
+		"drop rate" 0.01
+		"toughness" 16000
+	payload "Hematite" 2
+		"drop rate" 0.01
+		"toughness" 16000
+	payload "Magnatite" 2
+		"drop rate" 0.01
+		"toughness" 16000
+	payload "Chromite" 2
+		"drop rate" 0.01
 		"toughness" 16000
 	explode "smoke" 30
 	explode "bolide" 30
@@ -626,73 +662,82 @@ minable "metal large"
 	hull 3000
 	"random hull" 500
 	payload "Osmium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Iridium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Palladium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Gallium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Manganite" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Scandium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Vanadium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Cobalt" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Lithium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Sulfur" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Nickel" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Beryllium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Aluminum" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Copper" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Iron" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Tungsten" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Gold" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Platinum" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Lead" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Neodymium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Silver" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Titanium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
 		"toughness" 24000
 	payload "Uranium" 3
-		"drop rate" 0.1
+		"drop rate" 0.01
+		"toughness" 24000
+	payload "Hematite" 3
+		"drop rate" 0.01
+		"toughness" 24000
+	payload "Magnatite" 3
+		"drop rate" 0.01
+		"toughness" 24000
+	payload "Chromite" 3
+		"drop rate" 0.01
 		"toughness" 24000
 	explode "smoke" 40
 	explode "bolide" 40

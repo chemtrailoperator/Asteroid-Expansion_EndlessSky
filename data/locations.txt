@@ -2535,6 +2535,12 @@ system Kornephoros
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+	add minables "rock small" 127 10.44
+	add minables "rock medium" 96 8.787
+	add minables "rock large" 24 12.528
+	add minables "metal small" 4 7.221
+	add minables "metal medium" 143 8.352
+	add minables "metal large" 7 11.745
 
 system Korsmanath
 	remove asteroids "small rock"
