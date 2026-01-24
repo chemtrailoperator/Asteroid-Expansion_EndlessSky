@@ -58,4 +58,4 @@
 #Silicon (drops glass)																			- Anywhere there is already silicon
 #Coal (drops coal, diamond, and graphite)		3-5 / system									- Alniyat, Zubeneschamali, Ildaria, Arneb
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph 
-												3-5 / system
+#												3-5 / system

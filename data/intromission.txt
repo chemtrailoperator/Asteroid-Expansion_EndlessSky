@@ -4,9 +4,9 @@ mission "Asteroid 0.1"
 	name "Asteroid Scanner Update"
 	description "Conversation flavor mission telling you that asteroid scanners have been updated."
 	source
-		government "Syndicate" "Republic" Free Worlds" "Pirate"
+		government "Syndicate" "Republic" "Free Worlds" "Pirate"
 	to offer
-		outfit (flagship installed): "Asteroid Scanner"
+		has "outfit (flagship installed):" "Asteroid Scanner"
 		not "Asteroid 0.2: offered"
 	on offer
 		conversation
@@ -24,9 +24,9 @@ mission "Asteroid 0.2"
 	name "Asteroid Scanner Update"
 	description "Conversation flavor mission telling you that asteroid scanners have been updated."
 	source
-		government "Syndicate" "Republic" Free Worlds" "Pirate"
+		government "Syndicate" "Republic" "Free Worlds" "Pirate"
 	to offer
-		not outfit (flagship installed): "Asteroid Scanner"
+		not "outfit (flagship installed):" "Asteroid Scanner"
 		not "Asteroid 0.1: offered"
 	on offer
 		conversation
