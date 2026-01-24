@@ -6,7 +6,7 @@ mission "Asteroid 0.1"
 	source
 		government "Syndicate" "Republic" "Free Worlds" "Pirate"
 	to offer
-		has "outfit (flagship installed):" "Asteroid Scanner"
+		has "outfit (flagship installed): Asteroid Scanner"
 		not "Asteroid 0.2: offered"
 	on offer
 		conversation
@@ -26,7 +26,7 @@ mission "Asteroid 0.2"
 	source
 		government "Syndicate" "Republic" "Free Worlds" "Pirate"
 	to offer
-		not "outfit (flagship installed):" "Asteroid Scanner"
+		not "outfit (flagship installed): Asteroid Scanner"
 		not "Asteroid 0.1: offered"
 	on offer
 		conversation
