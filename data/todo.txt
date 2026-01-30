@@ -57,4 +57,9 @@
 #Basalt (drops obsidian and basalt)				6-10 / system									- Arneb, Ildaria, Rutilicus, Cebalrai, Rasalhauge, Kraz, Mimosa, Minkar, Acrux, Canopus, Alheka, Betelguese, Alnilam (3x)
 #Silicon (drops glass)																			- Anywhere there is already silicon
 #Coal (drops coal, diamond, and graphite)		3-5 / system									- Alniyat, Zubeneschamali, Ildaria, Arneb
+<<<<<<< HEAD
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph
+=======
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph 
+#												3-5 / system
+>>>>>>> 8ed5ed1a9c2860a4554f631d8c0cca91ac7497ac
