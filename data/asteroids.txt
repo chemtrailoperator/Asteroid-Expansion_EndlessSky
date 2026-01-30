@@ -330,7 +330,7 @@ minable "Granite"
 	payload "Granite" 25
 		"toughness" 50000
 	payload "Quartz" 15
-		"tougness" 20000
+		"toughness" 20000
 	explode "smoke" 40
 	explode "bolide" 40
 	explode "asteroid crunch large"
@@ -342,7 +342,7 @@ minable "Basalt"
 	payload "Basalt" 25
 		"toughness" 50000
 	payload "Obsidian" 3
-		"tougness" 20000
+		"toughness" 20000
 	explode "smoke" 40
 	explode "bolide" 40
 	explode "asteroid crunch large"

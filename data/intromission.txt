@@ -1,39 +1,29 @@
 mission "Asteroid 0.1"
 	outfitter
 	invisible
-	name "Asteroid Scanner Update"
-	description "Conversation flavor mission telling you that asteroid scanners have been updated."
 	source
-		government "Syndicate" "Republic" Free Worlds" "Pirate"
+		outfits "Asteroid Scanner" "Research Laboratory" "Spectrometer Array" `"Tuur" Scanning Suite` "MCS Extractor"
 	to offer
-		outfit (flagship installed): "Asteroid Scanner"
+		has "outfit (flagship installed): Asteroid Scanner"
 		not "Asteroid 0.2: offered"
 	on offer
 		conversation
-			`	There is a buzz of conversation in the outfitter, a man beckons you over to a store selling asteroid scanners. "Since you already have one I thought I'd tell you. There's been a breakthrough in scanning technology and an update has been pushed to all scanners. Your scanner will now detect a much wider range of minerals at no extra cost."`
-			`	You thank him for the info and move on.`
-		log "Update pushed to all asteroid scanners from a breakthrough in scanning tech. Your scanner now detects a much wider range of minerals."
-			accept
-	on enter
-		dialog `Your asteroid automatically detects many more minerals and metals than before.`
-		fail
-
-mission "Asteroid 0.2"
-	outfitter
-	invisible
-	name "Asteroid Scanner Update"
-	description "Conversation flavor mission telling you that asteroid scanners have been updated."
-	source
-		government "Syndicate" "Republic" Free Worlds" "Pirate"
-	to offer
-		not outfit (flagship installed): "Asteroid Scanner"
-		not "Asteroid 0.1: offered"
-	on offer
-		conversation
-			`	There is a buzz of conversation in the outfitter, a man beckons you over to a store selling asteroid scanners. "Can I interest you in an asteroid scanner? There has been a breakthrough in scanning technology and our scanners now detect many more minerals and metals than before."`
+			branch hasscanner
+				or
+					has "outfit (flagship installed): Asteroid Scanner"
+					has "outfit (flagship installed): Research Laboratory"
+					has "outfit (flagship installed): Spectrometer Array"
+					has "outfit (flagship installed): Tuur Scanning Suite"
+					has "outfit (flagship installed): MCS Extractor"
+			`There is a buzz of conversation in the outfitter, a man beckons you over to a store selling asteroid scanners. "Can I interest you in an asteroid scanner? There has been a breakthrough in scanning technology and our scanners now detect many more minerals and metals than before."`
 			`	You thank him but say you don't need one right now, although its probably something you should consider`
+				accept
+			label hasscanner
+			`There is a buzz of conversation in the outfitter, a man beckons you over to a store selling asteroid scanners. "Since you already have one I thought I'd tell you. There's been a breakthrough in scanning technology and an update has been pushed to all scanners. Your scanner will now detect a much wider range of minerals at no extra cost."`
+			`	You thank him for the info and move on.`
+				accept
 		log "Update pushed to all asteroid scanners from a breakthrough in scanning tech. Your scanner now detects a much wider range of minerals."
-			accept
+		
 	on enter
-		dialog `You should probably get an asteroid scanner.`
+		dialog `Your system now automatically detects many more minerals and metals than before. This scanner might be useful.`
 		fail
