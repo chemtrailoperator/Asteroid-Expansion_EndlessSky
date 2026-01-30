@@ -35,31 +35,28 @@
 #mining weapon with good prospecting
 
 #Asteroids																						Systems:
-#Superheavy (drops Osmium and Iridium) done		1-2 / system									- Ildaria (2-4x), Gorvi (2-3x more), Rigel, Phurad, Terminus, Algorel, Hadar, Kornephoros, Sadalmelik, Alpha Hydri, Diphda, Al Dhanab, Fomalhaut (not a typo)
-#Palladium done									1-2 / system									- Tais, Sadalsuud, Yed Prior, Seginus, Capella
-#Gallium done										2-3 / system									- Sirius, Achernar, Alioth, Alkaid, Ildaria
-#Manganite done									2-4 / system									- Menkar, Eteron, Rasalhague, Ascella, Sargas
-#Scandium done										1 / system										- Suhail, Adhara (2x), Delta Velorum, Yed Prior, Kornephoros, Shaula (2x)
-#Vanadium done										1 / system										- Betelgeuse (2x), Turais, Men, Seginus, Enif
-#Cobalt done										2-3 / system									- Rasalhague, Hintar, Alnasl, Muhlifain, Ildaria, Zubeneschamali, 
-#Tin done											idk												- idk decide urself
-#Zirconium done									2-3 / system									- Rastaban, Vindemiatrix, Minkar, Girtab, Saiph, Markeb, Diphda, Caph
-#Calcium done										4-6 / system									- Bellatrix, Rasalhague, Alphard, Volax, Izar, Gamma Corvi, Arcturus, Ildaria, Alniyat
-#Beryllium done									2-5 / system									- Markab, Ildaria, Betelguese, Arcturus, Ipsing, Gamma Cassopeiae (not a typo), Algol, 
-#Sulfur done										1-4 / system									- Han, Alniyat, Alnilam (2x), Beta Lupi, Peacock, Mebsuta, Tejat, Citadelle, Alioth, Hadar, Albireo
-#Chromium done										3-4 / system									- Deneb, Kochab, Phecda, Dubhe, Aludra, Lurata, Spica
-#Granite (drops quartz and granite) done			5-10 / system									- Denebola, Markeb, Avior, Dabih, Rastaban, Ildaria, Fumalsamakah, Turais, Schedar, Persian, Sospi, Danoa, Menkent, Alnilam
-#Hematite .										5-10 / system									- Minkar, Vindemiatrix, Citadelle, Alnilam, Tortor, Mirzam, Ultima Thule, Wazn, Zosma, Miaplacidus, Misam, Capella, Zaurak, Sirius, Sol, Nocte, Markab, Rasalhauge, Delta Sagittarii, Albaldah, Sadr, Atria, Antares, Aldihibain, Zubenelgenubi, 
-#Magnetite .										5-10 / system									- Hatysa, Almaaz, Gorvi, Mebsuta, Suhail, Mirfak, Oblate, Elnath, Alhena, Talita, Acamar, Menkar, Procyon, Eteron, Fingol, Al Dhanab, Achenar, Almach, Delta Capricorni, Tais, Eltanin, Nunki, Sadalmelik, Dschubba, Graffias, Sabik, Alnasl
-#Gypsum .											7-9 / system									- Porrima, Regulus, Alheka, Avior, Markeb, Wezen, Gomeisa, Zosma, Alphard
-#Schist .											3-5 / system									- Tais, Naper, Tarazed, Nocte, Vega, Menkent, Sirius, Eteron, Sol, Danoa, Sumar, Hassaleh, Rajak, Cardax, Volax, Ruchbah, Ankaa
-#Chromite											3-7 / system									- Cor Caroli, Algorel, Eber, Alpha Arae, Kaus Borealis, Zeta Aquilae
-#Basalt (drops obsidian and basalt)				6-10 / system									- Arneb, Ildaria, Rutilicus, Cebalrai, Rasalhauge, Kraz, Mimosa, Minkar, Acrux, Canopus, Alheka, Betelguese, Alnilam (3x)
-#Silicon (drops glass)																			- Anywhere there is already silicon
-#Coal (drops coal, diamond, and graphite)		3-5 / system									- Alniyat, Zubeneschamali, Ildaria, Arneb
-<<<<<<< HEAD
+#Superheavy (drops Osmium and Iridium) done		1-2 / system									-
+#Palladium done									1-2 / system									-
+#Gallium done										2-3 / system									-
+#Manganite done									2-4 / system									-
+#Scandium done										1 / system										-
+#Vanadium done										1 / system										-
+#Cobalt done										2-3 / system									-
+#Tin done											idk												-
+#Zirconium done									2-3 / system									-
+#Calcium done										4-6 / system									-
+#Beryllium done									2-5 / system									-
+#Sulfur done										1-4 / system									-
+#Chromium done										3-4 / system									-
+#Granite (drops quartz and granite) done			4-7 / system									-
+#Hematite .										5-10 / system									-
+#Magnetite .										5-10 / system									-
+#Gypsum .											7-9 / system									-
+#Schist .											3-5 / system									-
+#Chromite											3-7 / system									-
+#Basalt (drops obsidian and basalt)				6-10 / system									-
+#Silicon (drops glass)																			-
+#Coal (drops coal, diamond, and graphite)		3-5 / system									- 
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph
-=======
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph 
 #												3-5 / system
->>>>>>> 8ed5ed1a9c2860a4554f631d8c0cca91ac7497ac
