@@ -34,29 +34,29 @@
 #powerful asteroid scanner
 #mining weapon with good prospecting
 
-#Asteroids																						Systems:
-#Superheavy (drops Osmium and Iridium) done		1-2 / system									-
-#Palladium done									1-2 / system									-
-#Gallium done										2-3 / system									-
-#Manganite done									2-4 / system									-
-#Scandium done										1 / system										-
-#Vanadium done										1 / system										-
-#Cobalt done										2-3 / system									-
-#Tin done											idk												-
-#Zirconium done									2-3 / system									-
-#Calcium done										4-6 / system									-
-#Beryllium done									2-5 / system									-
-#Sulfur done										1-4 / system									-
-#Chromium done										3-4 / system									-
-#Granite (drops quartz and granite) done			4-7 / system									-
-#Hematite .										5-10 / system									-
-#Magnetite .										5-10 / system									-
-#Gypsum .											7-9 / system									-
-#Schist .											3-5 / system									-
-#Chromite											3-7 / system									-
-#Basalt (drops obsidian and basalt)				6-10 / system									-
-#Silicon (drops glass)																			-
-#Coal (drops coal, diamond, and graphite)		3-5 / system									- 
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Mirfak, Geminus, Epsilon Leonis, Sol (2-3x more than others), Markab, Tarazed, Zubeneschamali, Kraz, Kornephoros, Sabik, Wei, Lesath, Rastaban, Shaula, Antares, Men, Belenos, Thuban, Fumalsamakah, Citadelle, Alpherg, Algenib, Gienah, Almach, Misam, Durax, Mintaka, Almaaz, Hatysa, Alnilam, Arneb, Umbral, Aldebaran, Formalhaut, Caph 
+#Asteroids																								Systems:
+#Superheavy (drops Osmium and Iridium) done		1-2 / system										-
+#Palladium done									1-2 / system										-
+#Gallium done										2-3 / system										-
+#Manganite done									2-4 / system										-
+#Scandium done										1 / system											-
+#Vanadium done										1 / system											-
+#Cobalt done										2-3 / system										-
+#Tin done											idk													-
+#Zirconium done									2-3 / system										-
+#Calcium done										4-6 / system										-
+#Beryllium done									2-5 / system										-
+#Sulfur done										1-4 / system										-
+#Chromium done										3-4 / system										-
+#Granite (drops quartz and granite) done			4-7 / system										-
+#Hematite .										5-10 / system										-
+#Magnetite .										5-10 / system										-
+#Gypsum .											7-9 / system										-
+#Schist .											3-5 / system										-
+#Chromite											3-7 / system										-
+#Basalt (drops obsidian and basalt)				6-10 / system										-
+#Silicon (drops glass)																				-
+#Coal (drops coal, diamond, and graphite)		3-5 / system										- 
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- 
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	-
 #												3-5 / system
