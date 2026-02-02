@@ -41,11 +41,11 @@
 #Manganite done									2-4 / system										- Fomalhaut, Algol, Seginus, Sargas, Sabik, Fumalsamakah
 #Scandium done										1 / system											- Boral, Naper, Mirzam, Rajak, Gorvi, Ildaria 2x, Avior, Alderamin
 #Vanadium done										1 / system											- Arcturus, Ipsing, Eltanin, Eber, Beta Lupi, Hatysa, Ildaria, Hassaleh, Kugel
-#Cobalt done										2-3 / system										- 
-#Tin done											1-4 / system										-
-#Zirconium done									2-3 / system										-
-#Calcium done										4-6 / system										-
-#Beryllium done									2-5 / system										-
+#Cobalt done										2-3 / system										- Algol, Canopus, Phact, Menkent, Albireo, Acrux, Unulklhai, Ildaria
+#Tin done											1-4 / system										- Porrima, Menkalanin, Ildaria, Sospi, Sheratan, Beta Lupi
+#Zirconium done									2-3 / system										- Alphard, Tais, Oblate
+#Calcium done										4-6 / system										- Alioth, Gacrux, Eber, Albaldah, Muhlifain, Kochab, Achernar, Ruchabh, Danoa, Tortor, Wezen, Aludra
+#Beryllium done									2-5 / system										- 
 #Sulfur done										1-4 / system										-
 #Chromium done										3-4 / system										-
 #Granite (drops quartz and granite) done			4-7 / system										-
@@ -57,5 +57,5 @@
 #Basalt (drops obsidian and basalt)				6-10 / system										-
 #Silicon (drops glass)																				-
 #Coal (drops coal, diamond, and graphite)		3-5 / system										- 
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- 
+#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Arneb, Almaaz, Alnilam, Hatysa, Mintaka, Misam, Durax, Almach, Algenib, Gienah, Persian, Shaula, Antares, Graffias, Men, Belenos, Thuban, Fumalsamakah, Alpherg, Citadelle, Beta Lupi, Kornephoros, Sol, Polaris, Lesath, Deneb, Fomalhaut
 
