@@ -35,14 +35,14 @@
 #mining weapon with good prospecting
 
 #Asteroids																								Systems:
-#Superheavy (drops Osmium and Iridium) done		1-2 / system										-
-#Palladium done									1-2 / system										-
-#Gallium done										2-3 / system										-
-#Manganite done									2-4 / system										-
-#Scandium done										1 / system											-
-#Vanadium done										1 / system											-
-#Cobalt done										2-3 / system										-
-#Tin done											idk													-
+#Superheavy (drops Osmium and Iridium) done		1-2 / system										- Minkar, Zubeneschamali, Ildaria 5x, Holeb, Persian, Antevorta, Terminus 2x, Aspidiske, Betelguese, Sospi 3x, Rigel, Gorvi 3x, Menkalanin
+#Palladium done									1-2 / system										- Boral, Phact, Alpheratz, Deneb 4x, Sadalmelik, Belenos, Unulkahai, Cor Caroli, Tortor, Avior 2x, Aludra, Gomeisa, Ildaria 3x
+#Gallium done										2-3 / system										- Talita, Alhena, Vega, Ildaria, Sabik, Albaldah, Algenib, Gamma Cassiopeiae, Atik, Menkent, Lesath, Albireo, Adhara, Unagi, Sospi,  
+#Manganite done									2-4 / system										- Fomalhaut, Algol, Seginus, Sargas, Sabik, Fumalsamakah
+#Scandium done										1 / system											- Boral, Naper, Mirzam, Rajak, Gorvi, Ildaria 2x, Avior, Alderamin
+#Vanadium done										1 / system											- Arcturus, Ipsing, Eltanin, Eber, Beta Lupi, Hatysa, Ildaria, Hassaleh, Kugel
+#Cobalt done										2-3 / system										- 
+#Tin done											1-4 / system										-
 #Zirconium done									2-3 / system										-
 #Calcium done										4-6 / system										-
 #Beryllium done									2-5 / system										-
@@ -58,5 +58,4 @@
 #Silicon (drops glass)																				-
 #Coal (drops coal, diamond, and graphite)		3-5 / system										- 
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- 
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	-
-#												3-5 / system
+
