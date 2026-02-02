@@ -1,0 +1,335 @@
+system "Acamar"
+
+system "Achernar"
+
+system "Acrux"
+	add minables "Cobalt" 2 8
+
+system "Adhara"
+	add minables "Gallium" 3 15
+
+system "Albaldah"
+	add minables "Gallium" 3 15
+
+system "Albireo"
+	add minables "Gallium" 3 15
+	add minables "Cobalt" 2 8
+
+system "Alderamin"
+	add minables "Scandium" 1 5
+
+system "Al Dhanab"
+
+system "Algenib"
+	add minables "Gallium" 3 15
+
+system "Algol"
+	add minables "Manganite" 3 10
+	add minables "Cobalt" 2 8
+
+system "Algorel"
+
+system "Alheka"
+
+system "Alhena"
+	add minables "Gallium" 3 15
+
+system "Alioth"
+
+system "Almaaz"
+
+system "Almach"
+
+system "Alnasl"
+
+system "Alnilam"
+
+system "Alphard"
+	add minables "Zirconium" 2 17
+
+system "Alpheratz"
+	add minables "Palladium" 3 15
+
+system "Alpherg"
+
+system "Aludra"
+	add minables "Palladium" 3 15
+
+system "Antares"
+
+system "Antevorta"
+	add minables "superheavy metals" 3 30
+
+system "Arcturus"
+	add minables "Vanadium" 1 11
+
+system "Arneb"
+
+system "Ascella"
+
+system "Aspidiske"
+	add minables "superheavy metals" 3 30
+
+system "Atik"
+	add minables "Gallium" 3 15
+
+system "Atria"
+
+system "Avior"
+	add minables "Palladium" 5 15
+	add minables "Scandium" 1 5
+
+system "Belenos"
+	add minables "Palladium" 3 15
+
+system "Bellatrix"
+
+system "Beta Lupi"
+	add minables "Vanadium" 1 11
+	add minables "Tin" 2 11
+
+system "Betelgeuse"
+	add minables "superheavy metals" 3 30
+
+system "Boral"
+	add minables "Palladium" 3 15
+	add minables "Scandium" 1 5
+
+system "Canopus"
+	add minables "Cobalt" 2 8
+
+system "Cardax"
+
+system "Cebalrai"
+
+system "Citadelle"
+
+system "Cor Caroli"
+	add minables "Palladium" 3 15
+
+system "Danoa"
+
+system "Delta Sagittarii"
+
+system "Deneb"
+	add minables "Palladium" 10 15
+
+system "Denebola"
+
+system "Durax"
+
+system "Eber"
+	add minables "Vanadium" 1 11
+
+system "Elnath"
+
+system "Eltanin"
+	add minables "Vanadium" 1 11
+
+system "Epsilon Leonis"
+
+system "Fingol"
+
+system "Fomalhaut"
+	add minables "Manganite" 3 10
+
+system "Fumalsamakah"
+	add minables "Manganite" 3 10
+
+system "Gacrux"
+
+system "Gamma Cassiopeiae"
+	add minables "Gallium" 3 15
+
+system "Gienah"
+
+system "Gomeisa"
+	add minables "Palladium" 3 15
+
+system "Gorvi"
+	add minables "superheavy metals" 8 30
+	add minables "Scandium" 1 5
+
+system "Graffias"
+
+system "Hadar"
+
+system "Hassaleh"
+	add minables "Vanadium" 1 11
+
+system "Hatysa"
+	add minables "Vanadium" 1 11
+system "Holeb"
+	add minables "superheavy metals" 3 30
+
+system "Ildaria"
+	add minables "superheavy metals" 8 30
+	add minables "Palladium" 6 20
+	add minables "Gallium" 3 15
+	add minables "Scandium" 2 5
+	add minables "Vanadium" 1 11
+	add minables "Cobalt" 2 8
+	add minables "Tin" 2 11
+
+system "Ipsing"
+	add minables "Vanadium" 1 11
+
+system "Izar"
+
+system "Kaus Australis"
+
+system "Kochab"
+
+system "Kornephoros"
+
+system "Kugel"
+	add minables "Vanadium" 1 11
+
+system "Lesath"
+	add minables "Gallium" 3 15
+
+system "Mebsuta"
+
+system "Men"
+
+system "Menkalinan"
+	add minables "superheavy metals" 3 30
+	add minables "Tin" 2 11
+
+system "Menkar"
+
+system "Menkent"
+	add minables "Gallium" 3 15
+	add minables "Cobalt" 2 8
+
+system "Miaplacidus"
+
+system "Minkar"
+	add minables "superheavy metals" 3 30
+
+system "Mintaka"
+
+system "Mirach"
+
+system "Mirfak"
+
+system "Mirzam"
+	add minables "Scandium" 1 5
+
+system "Misam"
+
+system "Muhlifain"
+
+system "Muphrid"
+
+system "Naos"
+
+system "Naper"
+	add minables "Scandium" 1 5
+
+system "Nihal"
+
+system "Oblate"
+	add minables "Zirconium" 2 17
+
+system "Orvala"
+
+system "Peacock"
+
+system "Persian"
+	add minables "superheavy metals" 3 30
+
+system "Phact"
+	add minables "Palladium" 3 15
+	add minables "Cobalt" 2 8
+
+system "Polaris"
+
+system "Pollux"
+
+system "Porrima"
+	add minables "Tin" 2 11
+
+system "Rajak"
+	add minables "Scandium" 1 5
+
+system "Rasalhague"
+
+system "Rastaban"
+
+system "Rigel"
+	add minables "superheavy metals" 3 30
+
+system "Ruchabh"
+
+system "Sabik"
+	add minables "Gallium" 3 15
+	add minables "Manganite" 3 10
+
+system "Sadalmelik"
+	add minables "Palladium" 3 15
+
+system "Sargas"
+	add minables "Manganite" 3 10
+
+system "Seginus"
+	add minables "Manganite" 3 10
+
+system "Shaula"
+
+system "Sheratan"
+	add minables "Tin" 2 11
+
+system "Sol"
+
+system "Sospi"
+	add minables "superheavy metals" 8 30
+	add minables "Gallium" 3 15
+	add minables "Tin" 2 11
+
+system "Spica"
+
+system "Suhail"
+
+system "Sumar"
+
+system "Tais"
+	add minables "Zirconium" 2 17
+
+system "Talita"
+	add minables "Gallium" 3 15
+
+system "Tejat"
+
+system "Terminus"
+	add minables "superheavy metals" 6 30
+
+system "Thuban"
+
+system "Tortor"
+	add minables "Palladium" 3 15
+
+system "Turais"
+
+system "Unagi"
+	add minables "Gallium" 3 15
+
+system "Unukalhai"
+	add minables "Palladium" 3 15
+	add minables "Cobalt" 2 8
+
+system "Vega"
+	add minables "Gallium" 3 15
+
+system "Vindemiatrix"
+
+system "Volax"
+
+system "Wazn"
+
+system "Wezen"
+
+system "Zubenelgenubi"
+
+system "Zubeneschamali"
+	add minables "superheavy metals" 3 30

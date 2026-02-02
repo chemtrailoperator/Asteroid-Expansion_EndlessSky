@@ -43,7 +43,9 @@
 #Vanadium done										1 / system											- Arcturus, Ipsing, Eltanin, Eber, Beta Lupi, Hatysa, Ildaria, Hassaleh, Kugel
 #Cobalt done										2-3 / system										- Algol, Canopus, Phact, Menkent, Albireo, Acrux, Unukalhai, Ildaria
 #Tin done											1-4 / system										- Porrima, Menkalanin, Ildaria, Sospi, Sheratan, Beta Lupi
+
 #Zirconium done									2-3 / system										- Alphard, Tais, Oblate
+
 #Calcium done										4-6 / system										- Alioth, Gacrux, Eber, Albaldah, Muhlifain, Kochab, Achernar, Ruchabh, Danoa, Tortor, Wezen, Aludra
 #Beryllium done									2-5 / system										- Porrima, Nihal, Turais
 #Sulfur done										1-4 / system										- Ildaria, Sol, Alnilam, Misam, Sheratan, Rasalhague, Betelgeuse, Sumar, 
