@@ -61,3 +61,13 @@
 #Coal (drops coal, diamond, and graphite)		3-5 / system										- Sol, Alnilam 2x, Mirfak, Zubenelgenubi, Ascella 2x, Oblate, Pollux, 
 #Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Arneb, Almaaz, Alnilam, Hatysa, Mintaka, Misam, Durax, Almach, Algenib, Gienah, Persian, Shaula, Antares, Graffias, Men, Belenos, Thuban, Fumalsamakah, Alpherg, Citadelle, Beta Lupi, Kornephoros, Sol, Polaris, Lesath, Deneb, Fomalhaut, Epsilon Leonis, Betelgeuse, Zubeneschamali, Cardax, Volax, Sospi, Alheka, 
 
+
+
+
+
+
+
+
+Gallium dimmer
+
+

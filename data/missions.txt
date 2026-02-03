@@ -1,0 +1,8 @@
+
+# Mission chain where you gain access to a semi psychotic hermit that has every minable in the game. he lives in an asteroid.
+
+
+outfitter "AllMinerals"
+	
+	
+	
