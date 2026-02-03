@@ -1,15 +1,20 @@
 system "Acamar"
+	add minables "Basalt" 8 8
 
 system "Achernar"
+	add minables "Calcium" 6 10
+	add minables "Basalt" 8 8
 
 system "Acrux"
 	add minables "Cobalt" 2 8
 
 system "Adhara"
 	add minables "Gallium" 3 15
+	add minables "Basalt" 8 8
 
 system "Albaldah"
 	add minables "Gallium" 3 15
+	add minables "Calcium" 6 10
 
 system "Albireo"
 	add minables "Gallium" 3 15
@@ -19,30 +24,43 @@ system "Alderamin"
 	add minables "Scandium" 1 5
 
 system "Al Dhanab"
+	add minables "Hematite" 9 25
 
 system "Algenib"
 	add minables "Gallium" 3 15
+	add minables "Scrap Metals" 2 20
 
 system "Algol"
 	add minables "Manganite" 3 10
 	add minables "Cobalt" 2 8
 
 system "Algorel"
+	add minables "Chromium" 4 12
 
 system "Alheka"
+	add minables "Scrap Metals" 2 20
 
 system "Alhena"
 	add minables "Gallium" 3 15
 
 system "Alioth"
+	add minables "Calcium" 6 10
 
 system "Almaaz"
+	add minables "Scrap Metals" 2 20
 
 system "Almach"
+	add minables "Scrap Metals" 2 20
 
 system "Alnasl"
+	add minables "Schist" 4 20
 
 system "Alnilam"
+	add minables "Sulfur" 2 8
+	add minables "Granite" 5 25
+	add minables "Schist" 4 20
+	add minables "Basalt" 16 8
+	add minables "Coal" 9 10
 
 system "Alphard"
 	add minables "Zirconium" 2 17
@@ -51,11 +69,16 @@ system "Alpheratz"
 	add minables "Palladium" 3 15
 
 system "Alpherg"
+	add minables "Schist" 4 20
+	add minables "Scrap Metals" 2 20
 
 system "Aludra"
 	add minables "Palladium" 3 15
+	add minables "Calcium" 6 10
+	add minables "Basalt" 8 8
 
 system "Antares"
+	add minables "Scrap Metals" 2 20
 
 system "Antevorta"
 	add minables "superheavy metals" 3 30
@@ -64,8 +87,10 @@ system "Arcturus"
 	add minables "Vanadium" 1 11
 
 system "Arneb"
+	add minables "Scrap Metals" 2 20
 
 system "Ascella"
+	add minables "Coal" 7 10
 
 system "Aspidiske"
 	add minables "superheavy metals" 3 30
@@ -74,22 +99,29 @@ system "Atik"
 	add minables "Gallium" 3 15
 
 system "Atria"
+	add minables "Hematite" 9 25
+	add minables "Magnatite" 8 26
 
 system "Avior"
 	add minables "Palladium" 5 15
 	add minables "Scandium" 1 5
+	add minables "Chromium" 4 12
 
 system "Belenos"
+	add minables "Scrap Metals" 2 20
 	add minables "Palladium" 3 15
 
 system "Bellatrix"
+	add minables "Schist" 4 20
 
 system "Beta Lupi"
 	add minables "Vanadium" 1 11
 	add minables "Tin" 2 11
+	add minables "Scrap Metals" 2 20
 
 system "Betelgeuse"
 	add minables "superheavy metals" 3 30
+	add minables "Sulfur" 2 8
 
 system "Boral"
 	add minables "Palladium" 3 15
@@ -97,70 +129,96 @@ system "Boral"
 
 system "Canopus"
 	add minables "Cobalt" 2 8
+	add minables "Gypsum" 8 20
 
 system "Cardax"
+	add minables "Scrap Metals" 2 20
 
 system "Cebalrai"
+	add minables "Chromite" 6 9
 
 system "Citadelle"
+	add minables "Scrap Metals" 2 20
 
 system "Cor Caroli"
 	add minables "Palladium" 3 15
 
 system "Danoa"
+	add minables "Calcium" 6 10
 
 system "Delta Sagittarii"
+	add minables "Magnatite" 8 26
 
 system "Deneb"
 	add minables "Palladium" 10 15
+	add minables "Scrap Metals" 2 20
 
 system "Denebola"
+	add minables "Gypsum" 8 20
 
 system "Durax"
+	add minables "Scrap Metals" 2 20
 
 system "Eber"
 	add minables "Vanadium" 1 11
+	add minables "Calcium" 6 10
 
 system "Elnath"
+	add minables "Hematite" 9 25
 
 system "Eltanin"
 	add minables "Vanadium" 1 11
+	add minables "Hematite" 9 25
 
 system "Epsilon Leonis"
+	add minables "Chromium" 4 12
 
 system "Fingol"
+	add minables "Magnatite" 8 26
 
 system "Fomalhaut"
 	add minables "Manganite" 3 10
+	add minables "Scrap Metals" 2 20
 
 system "Fumalsamakah"
 	add minables "Manganite" 3 10
+	add minables "Scrap Metals" 2 20
 
 system "Gacrux"
+	add minables "Calcium" 6 10
 
 system "Gamma Cassiopeiae"
 	add minables "Gallium" 3 15
 
 system "Gienah"
+	add minables "Scrap Metals" 2 20
 
 system "Gomeisa"
 	add minables "Palladium" 3 15
+	add minables "Chromium" 4 12
 
 system "Gorvi"
 	add minables "superheavy metals" 8 30
 	add minables "Scandium" 1 5
+	add minables "Hematite" 9 25
 
 system "Graffias"
+	add minables "Scrap Metals" 2 20
 
 system "Hadar"
+	add minables "Basalt" 8 8
 
 system "Hassaleh"
 	add minables "Vanadium" 1 11
 
 system "Hatysa"
 	add minables "Vanadium" 1 11
+	add minables "Magnatite" 8 26
+	add minables "Scrap Metals" 2 20
+	
 system "Holeb"
 	add minables "superheavy metals" 3 30
+	add minables "Basalt" 8 8
 
 system "Ildaria"
 	add minables "superheavy metals" 8 30
@@ -170,101 +228,137 @@ system "Ildaria"
 	add minables "Vanadium" 1 11
 	add minables "Cobalt" 2 8
 	add minables "Tin" 2 11
+	add minables "Sulfur" 2 8
+	add minables "Chromium" 4 12
+	add minables "Basalt" 8 8
 
 system "Ipsing"
 	add minables "Vanadium" 1 11
 
 system "Izar"
+	add minables "Chromite" 6 9
 
 system "Kaus Australis"
+	add minables "Schist" 4 20
 
 system "Kochab"
+	add minables "Calcium" 6 10
 
 system "Kornephoros"
+	add minables "Scrap Metals" 2 20
 
 system "Kugel"
 	add minables "Vanadium" 1 11
 
 system "Lesath"
 	add minables "Gallium" 3 15
+	add minables "Scrap Metals" 2 20
 
 system "Mebsuta"
+	add minables "Magnatite" 8 26
 
 system "Men"
+	add minables "Scrap Metals" 2 20
 
 system "Menkalinan"
 	add minables "superheavy metals" 3 30
 	add minables "Tin" 2 11
 
 system "Menkar"
+	add minables "Hematite" 9 25
+	add minables "Magnatite" 8 26
 
 system "Menkent"
 	add minables "Gallium" 3 15
 	add minables "Cobalt" 2 8
 
 system "Miaplacidus"
+	add minables "Hematite" 9 25
 
 system "Minkar"
 	add minables "superheavy metals" 3 30
 
 system "Mintaka"
+	add minables "Scrap Metals" 2 20
 
 system "Mirach"
+	add minables "Basalt" 8 8
 
 system "Mirfak"
+	add minables "Coal" 4 10
 
 system "Mirzam"
 	add minables "Scandium" 1 5
 
 system "Misam"
+	add minables "Sulfur" 2 8
+	add minables "Scrap Metals" 2 20
 
 system "Muhlifain"
+	add minables "Calcium" 6 10
 
 system "Muphrid"
+	add minables "Basalt" 8 8
 
 system "Naos"
+	add minables "Chromium" 4 12
 
 system "Naper"
 	add minables "Scandium" 1 5
+	add minables "Gypsum" 8 20
 
 system "Nihal"
+	add minables "Beryllium" 4 15
 
 system "Oblate"
 	add minables "Zirconium" 2 17
+	add minables "Coal" 4 10
 
 system "Orvala"
+	add minables "Basalt" 8 8
 
 system "Peacock"
+	add minables "Chromium" 4 12
 
 system "Persian"
 	add minables "superheavy metals" 3 30
+	add minables "Scrap Metals" 2 20
 
 system "Phact"
 	add minables "Palladium" 3 15
 	add minables "Cobalt" 2 8
 
 system "Polaris"
+	add minables "Scrap Metals" 2 20
 
 system "Pollux"
+	add minables "Coal" 4 10
 
 system "Porrima"
 	add minables "Tin" 2 11
+	add minables "Beryllium" 4 15
 
 system "Rajak"
 	add minables "Scandium" 1 5
 
 system "Rasalhague"
+	add minables "Sulfur" 2 8
+	add minables "Magnatite" 8 26
 
 system "Rastaban"
+	add minables "Gypsum" 8 20
 
 system "Rigel"
 	add minables "superheavy metals" 3 30
+	add minables "Basalt" 8 8
 
-system "Ruchabh"
+system "Ruchbah"
+	add minables "Calcium" 6 10
 
 system "Sabik"
 	add minables "Gallium" 3 15
 	add minables "Manganite" 3 10
+	add minables "Hematite" 9 25
 
 system "Sadalmelik"
 	add minables "Palladium" 3 15
@@ -276,40 +370,58 @@ system "Seginus"
 	add minables "Manganite" 3 10
 
 system "Shaula"
+	add minables "Scrap Metals" 2 20
 
 system "Sheratan"
 	add minables "Tin" 2 11
+	add minables "Sulfur" 2 8
 
 system "Sol"
+	add minables "Sulfur" 2 8
+	add minables "Basalt" 8 8
+	add minables "Coal" 4 10
+	add minables "Scrap Metals" 4 20
 
 system "Sospi"
 	add minables "superheavy metals" 8 30
 	add minables "Gallium" 3 15
 	add minables "Tin" 2 11
+	add minables "Granite" 5 25
+	add minables "Basalt" 8 8
+	add minables "Scrap Metals" 2 20
 
 system "Spica"
+	add minables "Basalt" 8 8
 
 system "Suhail"
+	add minables "Chromium" 4 12
+	add minables "Hematite" 9 25
 
 system "Sumar"
+	add minables "Sulfur" 2 8
 
 system "Tais"
 	add minables "Zirconium" 2 17
 
 system "Talita"
 	add minables "Gallium" 3 15
+	add minables "Chromite" 6 9
 
 system "Tejat"
+	add minables "Chromium" 4 12
 
 system "Terminus"
 	add minables "superheavy metals" 6 30
 
 system "Thuban"
+	add minables "Scrap Metals" 2 20
 
 system "Tortor"
 	add minables "Palladium" 3 15
+	add minables "Calcium" 6 10
 
 system "Turais"
+	add minables "Beryllium" 4 15
 
 system "Unagi"
 	add minables "Gallium" 3 15
@@ -322,14 +434,21 @@ system "Vega"
 	add minables "Gallium" 3 15
 
 system "Vindemiatrix"
+	add minables "Hematite" 9 25
 
 system "Volax"
+	add minables "Scrap Metals" 2 20
 
 system "Wazn"
+	add minables "Magnatite" 8 26
 
 system "Wezen"
+	add minables "Calcium" 6 10
 
 system "Zubenelgenubi"
+	add minables "Coal" 4 10
 
 system "Zubeneschamali"
 	add minables "superheavy metals" 3 30
+	add minables "Granite" 5 25 
+	add minables "Basalt" 8 8 

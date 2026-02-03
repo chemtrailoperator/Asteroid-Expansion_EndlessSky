@@ -119,11 +119,11 @@ minable "Tin"
 minable "Coal"
 	sprite "asteroid/coal/spin"
 	hull 1500
-	payload Coal 50
+	payload Coal 35
 		"toughness" 10000
 	payload "Diamond" 2
 		"toughness" 100000
-	payload "Graphite" 10
+	payload "Graphite" 7
 		"toughness" 5000
 	explode "smoke" 30
 	explode "bolide" 30
