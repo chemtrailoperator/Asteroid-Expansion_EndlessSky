@@ -1,0 +1,5 @@
+name "Asteroid Expansion Pack"
+about "Adds a number of new minerals and asteroids to the game, making space a little more flavorful."
+authors
+	ChemtrailOperator
+	Living_Adblocker
