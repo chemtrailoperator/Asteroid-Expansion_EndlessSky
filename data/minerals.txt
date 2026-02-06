@@ -16,7 +16,7 @@
 #Elements Added
 	
 outfit "Osmium"
-	cost 7000
+	cost 11000
 	plural "Osmium"
 	thumbnail "outfit/harvested osmium"
 	"flotsam sprite" "effect/flotsam osmium"
@@ -24,10 +24,10 @@ outfit "Osmium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Hard, brittle, bluish metal. Popular in allows. When combined in alloys with Iridium, it forms the densest metal known to man. Unfortunately, this density makes it impossible to incorporate it into ships."
+	description "Hard, brittle, bluish metal. Popular in alloys. When paired with Iridium, it forms the densest metal known to man. Unfortunately, this density makes it impractical to incorporate it into ships."
 	
 outfit "Iridium"
-	cost 12000
+	cost 15000
 	plural "Iridium"
 	thumbnail "outfit/harvested iridium"
 	"flotsam sprite" "effect/flotsam iridium"
@@ -35,11 +35,11 @@ outfit "Iridium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Iridium is an extremely hard, brittle, silvery metal. Popular in allows. When combined in alloys with Osmium, it forms the densest metal known to man, which makes it difficult and unweidly in ship design."
+	description "Iridium is an extremely hard, brittle, silvery metal. Popular in allows. When combined with Osmium, it forms the densest metal known to man, which makes it difficult and unweidly in ship design."
 
 	
 outfit "Palladium"
-	cost 4000
+	cost 7000
 	plural "Palladium"
 	thumbnail "outfit/harvested palladium"
 	"flotsam sprite" "effect/flotsam palladium"
@@ -47,10 +47,10 @@ outfit "Palladium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Lustrous, silvery metal. Useful because its bright sheen makes it beautiful when used for plating."
+	description "Lustrous, silvery metal. Its bright sheen makes it a popular choice for plating in luxury applications."
 	
 outfit "Gallium"
-	cost 200
+	cost 1100
 	plural "Gallium"
 	thumbnail "outfit/harvested gallium"
 	"flotsam sprite" "effect/flotsam gallium"
@@ -58,7 +58,7 @@ outfit "Gallium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "A soft, silvery metal with a very low melting point. Such a low melting point that it will become soft in your hand, not very useful otherwise."
+	description "A soft, silvery metal with a very low melting point. Such a low melting point that it will become soft in your hand, which isn't very practical."
 	
 outfit "Plutonium"
 	cost 300000
@@ -69,10 +69,10 @@ outfit "Plutonium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Plutonium is a silvery grey metal that tarnishes quickly. It is also extremely radioactive, so it is heavily regulated all human governments. The remnants you can mine are the destroyed remnants of various nuclear reactors, batteries, and weapons."
+	description "Plutonium is a silvery grey metal that tarnishes quickly. It is also extremely radioactive, and the most common choice for fission reactors in ships and power stations. The most reactive isotope, Plutonium-239, is quite useful for weapons, so all Plutonium is heavily regulated all human governments. Being caught with unregistered Plutonium samples can result in a hefty fine, or jail time. Small pieces of Plutonium can be found in scrap metal drifting throughout space as the leftovers of reactors, batteries, and weapons."
 	
 outfit "Manganite"
-	cost 300
+	cost 500
 	plural "Manganite"
 	thumbnail "outfit/harvested manganite"
 	"flotsam sprite" "effect/flotsam manganite"
@@ -80,7 +80,7 @@ outfit "Manganite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Manganite is a mineral composed mostly of manganese. It isn't terribly useful."
+	description "Manganite is a mineral composed mostly of manganese. It isn't terribly useful except as an ore. In prehistoric times, it was used as a die and pigment, but those days are past."
 	
 outfit "Scandium"
 	cost 4000
@@ -94,7 +94,7 @@ outfit "Scandium"
 	description "Scandium is a silvery metal that is useful in many alloys used in shipbuilding."
 	
 outfit "Vanadium"
-	cost 2000
+	cost 3000
 	plural "Vanadium"
 	thumbnail "outfit/harvested vanadium"
 	"flotsam sprite" "effect/flotsam vanadium"
@@ -105,7 +105,7 @@ outfit "Vanadium"
 	description "Vanadium is useful in alloys and batteries. Alloys containing vanadium date back long before human spaceflight."
 	
 outfit "Cobalt"
-	cost 500
+	cost 1000
 	plural "Cobalt"
 	thumbnail "outfit/harvested cobalt"
 	"flotsam sprite" "effect/flotsam cobalt"
@@ -116,7 +116,7 @@ outfit "Cobalt"
 	description "Cobalt is an important, but very common metal, meaning it isn't very valuable at all."
 	
 outfit "Coal"
-	cost 300
+	cost 500
 	plural "Coal"
 	thumbnail "outfit/harvested coal"
 	"flotsam sprite" "effect/flotsam coal"
@@ -127,7 +127,7 @@ outfit "Coal"
 	description "Coal is a form of pure Carbon that is formed deep in the crusts of planets. It is common on planets but rare in space."
 
 outfit "Diamond"
-	cost 20000
+	cost 100000
 	plural "Coal"
 	thumbnail "outfit/harvested diamond"
 	"flotsam sprite" "effect/flotsam diamond"
@@ -138,7 +138,7 @@ outfit "Diamond"
 	description "Another form of pure Carbon, formed deep in the crusts of seismically active planets. It is valuable both as the hardest mineral short of Yottrite, and as a beautiful gemstone."
 
 outfit "Lithium"
-	cost 300
+	cost 400
 	plural "Lithium"
 	thumbnail "outfit/harvested lithium"
 	"flotsam sprite" "effect/flotsam lithium"
@@ -146,10 +146,10 @@ outfit "Lithium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Lithium is important as a component of hyperspace fuel, but it is the third-most common element in the galaxy."
+	description "Lithium is important as a component of hyperspace fuel, but it is also the third-most common element in the galaxy, so it doesn't go for much."
 	
 outfit "Sulfur"
-	cost 100
+	cost 800
 	plural "Sulfur"
 	thumbnail "outfit/harvested sulfur"
 	"flotsam sprite" "effect/flotsam sulfur"
@@ -157,10 +157,10 @@ outfit "Sulfur"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Sulfur is an abundant nonmetallic element that has a strong smell. It is useful in making conventional munitions and propellants."
+	description "Sulfur is an abundant nonmetallic element that has a strong smell. It is useful in making conventional munitions and propellants, and noxious vapors too."
 	
 outfit "Nickel"
-	cost 600
+	cost 1000
 	plural "Nickel"
 	thumbnail "outfit/harvested nickel"
 	"flotsam sprite" "effect/flotsam nickel"
