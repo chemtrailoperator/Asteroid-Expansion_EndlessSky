@@ -34,41 +34,6 @@
 #Outfits
 #powerful asteroid scanner
 #mining weapon with good prospecting
-
-#Asteroids																								Systems:
-#Superheavy (drops Osmium and Iridium) done		1-2 / system										- Minkar, Zubeneschamali, Ildaria 5x, Holeb, Persian, Antevorta, Terminus 2x, Aspidiske, Betelgeuse, Sospi 3x, Rigel, Gorvi 3x, Menkalanin
-#Palladium done									1-2 / system										- Boral, Phact, Alpheratz, Deneb 4x, Sadalmelik, Belenos, Unulkahai, Cor Caroli, Tortor, Avior 2x, Aludra, Gomeisa, Ildaria 3x
-#Gallium done										2-3 / system										- Talita, Alhena, Vega, Ildaria, Sabik, Albaldah, Algenib, Gamma Cassiopeiae, Atik, Menkent, Lesath, Albireo, Adhara, Unagi, Sospi,  
-#Manganite done									2-4 / system										- Fomalhaut, Algol, Seginus, Sargas, Sabik, Fumalsamakah
-#Scandium done										1 / system											- Boral, Naper, Mirzam, Rajak, Gorvi, Ildaria 2x, Avior, Alderamin
-#Vanadium done										1 / system											- Arcturus, Ipsing, Eltanin, Eber, Beta Lupi, Hatysa, Ildaria, Hassaleh, Kugel
-#Cobalt done										2-3 / system										- Algol, Canopus, Phact, Menkent, Albireo, Acrux, Unukalhai, Ildaria
-#Tin done											1-4 / system										- Porrima, Menkalanin, Ildaria, Sospi, Sheratan, Beta Lupi
-
-#Zirconium done									2-3 / system										- Alphard, Tais, Oblate
-
-#Calcium done										4-6 / system										- Alioth, Gacrux, Eber, Albaldah, Muhlifain, Kochab, Achernar, Ruchabh, Danoa, Tortor, Wezen, Aludra
-#Beryllium done									2-5 / system										- Porrima, Nihal, Turais
-#Sulfur done										1-4 / system										- Ildaria, Sol, Alnilam, Misam, Sheratan, Rasalhague, Betelgeuse, Sumar, 
-#Chromium done										3-4 / system										- Ildaria, Algorel, Peacock, Tejat, Gomeisa, Avior, Suhail, Naos, Epsilon Leonis, 
-#Granite (drops quartz and granite) done			4-7 / system										- Alnilam, Zubeneschamali, Sospi
-#Hematite											5-10 / system										- Menkar, Al Dhanab, Vindemiatrix, Sabik, Atria, Eltanin, Miaplacidus, Suhail, Elnath, Gorvi
-#Magnetite											5-10 / system										- Menkar, Fingol, Rasalhague, Atria, Delta Sagitarii, Wazn, Mebsuta, Hatysa
-#Gypsum												7-9 / system										- Rastaban, Naper, Canopus, Denebola
-#Schist												3-5 / system										- Bellatrix, Kaus Australis, Alnasl, Alpherg, Alnilam
-#Chromite											3-7 / system										- Izar, Cebalrai, Talita
-#Basalt (drops obsidian and basalt)				6-10 / system										- Alnilam 2x, Sospi, Ildaria, Sol, Rigel, Acamar, Orvala, Muphrid, Hadar, Spica, Holeb, Aludra, Adhara, Achernar, Mirach, Zubeneschamali
-#Silicon (drops glass)																				-
-#Coal (drops coal, diamond, and graphite)		3-5 / system										- Sol, Alnilam 2x, Mirfak, Zubenelgenubi, Ascella 2x, Oblate, Pollux, 
-#Scrap Metal (drops Plutonium (very rare), steel, brass, chromium, nickel, cobalt, and glass) 	- Arneb, Almaaz, Alnilam, Hatysa, Mintaka, Misam, Durax, Almach, Algenib, Gienah, Persian, Shaula, Antares, Graffias, Men, Belenos, Thuban, Fumalsamakah, Alpherg, Citadelle, Beta Lupi, Kornephoros, Sol, Polaris, Lesath, Deneb, Fomalhaut, Epsilon Leonis, Betelgeuse, Zubeneschamali, Cardax, Volax, Sospi, Alheka, 
-
-
-
-
-
-
-
-
-# Gallium dimmer
+#Osmiridium paperweight -- light hand to hand, unique
 
 

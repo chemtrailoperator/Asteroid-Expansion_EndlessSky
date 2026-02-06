@@ -80,7 +80,7 @@ outfit "Manganite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Manganite is a mineral composed mostly of manganese. It isn't terribly useful except as an ore. In prehistoric times, it was used as a die and pigment, but those days are past."
+	description "Manganite is a mineral composed mostly of manganese. It isn't terribly useful except as an ore. In prehistoric times, it was used as a dye, pigment, and even a fire starter, but those days are past."
 	
 outfit "Scandium"
 	cost 4000
@@ -113,7 +113,7 @@ outfit "Cobalt"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Cobalt is an important, but very common metal, meaning it isn't very valuable at all."
+	description "Cobalt is an important, but very common metal. It is used in batteries for the most part, but its value is diminished by its plenty."
 	
 outfit "Coal"
 	cost 500
@@ -124,7 +124,7 @@ outfit "Coal"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Coal is a form of pure Carbon that is formed deep in the crusts of planets. It is common on planets but rare in space."
+	description "Coal is a form of pure Carbon that is formed deep in the crusts of planets from the decay of Carbon-based plants and animals. It is common on planets, but rare in space, where it is only present because of planetary collisions and disasters."
 
 outfit "Diamond"
 	cost 100000
@@ -203,7 +203,7 @@ outfit "Quartz"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Quartz is a form of Silicon Dioxide that forms pretty crystals. When charged pizzoelectrically, Quartz oscilates in a regular manner and it is used in clocks."
+	description "Quartz is a form of Silicon Dioxide that forms pretty hexagonal crystals. When charged pizzoelectrically, Quartz oscilates in a regular manner and it is used in clocks as a cheaper alternative to Rubidium and Caesium."
 	
 outfit "Basalt"
 	cost 100
@@ -214,10 +214,10 @@ outfit "Basalt"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Basalt is igneous rock blasted off of planets and asteroids when they interact. It is basically useless."
+	description "Basalt is igneous rock blasted off of planets and asteroids when they interact. It is basically useless and uninteresting."
 	
 outfit "Granite"
-	cost 200
+	cost 500
 	plural "Granite"
 	thumbnail "outfit/harvested granite"
 	"flotsam sprite" "effect/flotsam granite"
@@ -236,7 +236,7 @@ outfit "Hematite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Hematite is a variant of Iron Oxide. It is valuable as Iron ore."
+	description "Hematite is a variant of Iron Oxide. It is valuable as Iron ore and a red pigment."
 
 outfit "Magnetite"
 	cost 100
@@ -247,7 +247,7 @@ outfit "Magnetite"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Magnetite is another variant of Iorn Oxide. It is a simple and ferromagnetic mineral abundant in most parts of the galaxy."
+	description "Magnetite is another variant of Iron Oxide. It is a simple and ferromagnetic mineral abundant in most parts of the galaxy."
 	
 outfit "Steel"
 	cost 300
@@ -258,7 +258,7 @@ outfit "Steel"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Steel is comprised of a variety of different Iron alloys. Steel in space comes from the remains of spaceships that have degraded in space."
+	description "Steel is comprised of a variety of different Iron alloys. Steel in space comes from the remains of spaceships that have degraded in space or have been destroyed in combat."
 	
 outfit "Brass"
 	cost 500
@@ -269,7 +269,7 @@ outfit "Brass"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Brass is an alloy of copper and tin, its heat and electrical conductivity make it popular in ship components. Essentially all of the brass in space comes from destroyed starships."
+	description "Brass is an alloy of copper and tin, its heat and electrical conductivity make it popular in ship components. Essentially all of the brass in space comes from destroyed starships, but it does occur naturally every now and then."
 	
 outfit "Obsidian"
 	cost 2000
