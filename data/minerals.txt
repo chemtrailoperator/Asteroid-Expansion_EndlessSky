@@ -91,10 +91,10 @@ outfit "Scandium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Scandium is a silvery metal that is useful in many alloys used in shipbuilding."
+	description "Scandium is a silvery metal that is useful in many alloys used in shipbuilding. It is most popularly used with Aluminum."
 	
 outfit "Vanadium"
-	cost 3000
+	cost 7000
 	plural "Vanadium"
 	thumbnail "outfit/harvested vanadium"
 	"flotsam sprite" "effect/flotsam vanadium"
@@ -102,7 +102,7 @@ outfit "Vanadium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Vanadium is useful in alloys and batteries. Alloys containing vanadium date back long before human spaceflight."
+	description "Vanadium is useful in alloys and batteries. Alloys containing vanadium date back long before human spaceflight in luxury applications, surgical tools, and the old turbine engines of The Jet Age. Modern fusion reactors are heavily dependent on Vanadium as a superconductor, since it is necessary to form the electromagnetic tauruses where fusion occurs."
 	
 outfit "Cobalt"
 	cost 1000
