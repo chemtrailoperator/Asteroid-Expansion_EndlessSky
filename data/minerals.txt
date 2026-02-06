@@ -192,7 +192,7 @@ outfit "Glass"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Glass is formed by the heat of your weapons against Silicon powder in asteroids. That said, its basically useless unless it is manufactured in a pure form."
+	description "Glass is formed by the heat of your weapons against Silicon powder in asteroids. That said, its basically useless unless it is manufactured in a pure form. Small amounts are present in scrap and junk floating throughout space."
 	
 outfit "Quartz"
 	cost 1000
