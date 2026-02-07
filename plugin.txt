@@ -1,5 +1,5 @@
 name "Asteroid Expansion Pack"
-about "Adds a number of new minerals and asteroids to the game, making space a little more flavorful."
+about "Adds 24 new asteroids and 33 new minerals throughout human space. Makes mining a little more profitable!"
 authors
 	ChemtrailOperator
 	Living_Adblocker
