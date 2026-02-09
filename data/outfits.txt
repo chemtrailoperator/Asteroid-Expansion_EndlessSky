@@ -1,0 +1,29 @@
+outfit "Upgraded Mining Laser"
+	category "Guns"
+	series "Guns"
+	index 01071
+	cost 128000
+	thumbnail "outfit/upgraded laser"
+	"mass" 18
+	"outfit space" -18
+	"weapon capacity" -18
+	"gun ports" -1
+	weapon
+		sprite "projectile/upgraded laser"
+			"frame rate" 1
+		sound "mining laser"
+		"hit effect" "beam laser impact"
+		"inaccuracy" .25
+		"velocity" 300
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 1.6
+		"firing heat" 2.8
+		"shield damage" .6
+		"hull damage" 1.8
+		"minable damage" 3.2
+		"prospecting" 2.5
+	description "This is a heavily modified and upgraded variant of the trusty Mining Laser. It includes improved optics that improve accuracy and range, higher strength components, and light frequencies adapted to decomposing rock instead of vaporizing it."
+	description "The new design makes it even less effective against shields than before, and much more epxensive to build."
+
+
