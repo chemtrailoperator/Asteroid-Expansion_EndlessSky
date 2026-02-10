@@ -33,7 +33,6 @@
 
 #Outfits
 #powerful asteroid scanner
-#mining weapon with good prospecting
 
 #Unique outfits + storylines
 #Osmiridium brick -- light hand to hand, unique (One normal brick of OSMRDM weighs 44lbs)
