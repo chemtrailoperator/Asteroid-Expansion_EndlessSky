@@ -1,0 +1,113 @@
+
+# Copyright (c) 2026 by ChemtrailOperator and Living_Adblocker
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <https://www.gnu.org/licenses/>.
+# This program was coded using ChemtrailOperator's EndlessSkyDark N++ UDL. Available on the wiki for this plugin.
+
+# These jobs are expansions for the vanilla ones already in game. For now, only including high-demand minerals and metals
+
+mission "Mineral Shortages (Osmium)"
+	name "Harvested osmium to <planet>"
+	job
+	repeat
+	deadline 7
+	description "Factories on <planet> are suffering from a mineral shortage. Harvest <amount> tons of <mineral> and return to <destination> by <date>. Payment is <payment>."
+	substitutions
+		"<mineral>" "osmium"
+		"<amount>" "30"
+	to offer
+		random < 5
+		"outfit (all): Osmium" < 5
+	to accept
+		"cargo space" >= 30
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "factory"
+	on visit
+		dialog phrase "generic mineral on visit"
+	on complete
+		payment 379500
+		outfit "Osmium" -30
+		dialog phrase "generic mineral delivery payment"
+
+mission "Mineral Shortages (Iridium)"
+	name "Harvested iridium to <planet>"
+	job
+	repeat
+	deadline 7
+	description "Factories on <planet> are suffering from a mineral shortage. Harvest <amount> tons of <mineral> and return to <destination> by <date>. Payment is <payment>."
+	substitutions
+		"<mineral>" "iridium"
+		"<amount>" "30"
+	to offer
+		random < 5
+		"outfit (all): Iridium" < 5
+	to accept
+		"cargo space" >= 30
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "factory"
+	on visit
+		dialog phrase "generic mineral on visit"
+	on complete
+		payment 517500
+		outfit "Iridium" -30
+		dialog phrase "generic mineral delivery payment"
+		
+mission "Mineral Shortages (Palladium)"
+	name "Harvested palladium to <planet>"
+	job
+	repeat
+	deadline 7
+	description "Factories on <planet> are suffering from a mineral shortage. Harvest <amount> tons of <mineral> and return to <destination> by <date>. Payment is <payment>."
+	substitutions
+		"<mineral>" "palladium"
+		"<amount>" "60"
+	to offer
+		random < 5
+		"outfit (all): Palladium" < 25
+	to accept
+		"cargo space" >= 60
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "factory"
+	on visit
+		dialog phrase "generic mineral on visit"
+	on complete
+		payment 483000
+		outfit "Palladium" -60
+		dialog phrase "generic mineral delivery payment"
+		
+mission "Mineral Shortages (Scandium)"
+	name "Harvested scandium to <planet>"
+	job
+	repeat
+	deadline 7
+	description "Factories on <planet> are suffering from a mineral shortage. Harvest <amount> tons of <mineral> and return to <destination> by <date>. Payment is <payment>."
+	substitutions
+		"<mineral>" "scandium"
+		"<amount>" "60"
+	to offer
+		random < 5
+		"outfit (all): Scandium" < 25
+	to accept
+		"cargo space" >= 60
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "factory"
+	on visit
+		dialog phrase "generic mineral on visit"
+	on complete
+		payment 483000
+		outfit "Scandium" -60
+		dialog phrase "generic mineral delivery payment"
+		
