@@ -1,4 +1,4 @@
-Effective 8/26/26, I have paused development on all of my plugins. Check back in a few years.
+This plugin is currently complete, no further development planned.
 
 This plugin adds variation and complexity to the asteroid dynamic. It also adds something like 30 more minerals with corresponding asteroids.
 
