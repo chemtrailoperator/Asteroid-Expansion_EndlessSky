@@ -1,0 +1,13 @@
+Corrections needed to Asteroids Plugin
+
+
+Images Needed:
+
+
+Brass
+Bronze
+Calcite
+Chromium 
+Manganite
+Plutonium
+Zinc
