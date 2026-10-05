@@ -83,7 +83,7 @@ minable "Manganite"
 	sprite "asteroid/manganite/spin"
 	hull 3000
 	"random hull" 810
-	payload "Manganese" 20
+	payload "Manganite" 20
 		"toughness" 20000
 	explode "smoke" 30
 	explode "bolide" 30
@@ -259,17 +259,6 @@ minable "Magnatite"
 	explode "bolide" 40
 	explode "asteroid crunch large"	
 	
-minable "Calcite"
-	"display name" "Calcite"
-	sprite "asteroid/calcite/spin"
-	hull 500
-	"random hull" 80
-	payload "Calcite" 50
-		"toughness" 4000
-	explode "smoke" 40
-	explode "bolide" 40
-	explode "asteroid crunch large"
-	
 minable "Steel"
 	"display name" "Steel"
 	sprite "asteroid/iron/spin"
@@ -277,17 +266,6 @@ minable "Steel"
 	"random hull" 200
 	payload "Steel" 30
 		"toughness" 20000
-	explode "smoke" 40
-	explode "bolide" 40
-	explode "asteroid crunch large"
-	
-minable "Bronze"
-	"display name" "Tin Alloys"
-	sprite "asteroid/bronze/spin"
-	hull 2000
-	"random hull" 800
-	payload "Bronze" 25
-		"toughness" 50000
 	explode "smoke" 40
 	explode "bolide" 40
 	explode "asteroid crunch large"
@@ -320,20 +298,7 @@ minable "Chromite"
 		"toughness" 30000
 	explode "smoke" 30
 	explode "bolide" 30
-	explode "asteroid crunch medium"		
-	
-minable "Brass"
-	"display name" "Copper Alloys"
-	sprite "asteroid/brass/spin"
-	hull 400
-	"random hull" 80
-	payload "Brass" 20
-		"toughness" 10000
-	payload "Duralumin" 6
-		"toughness" 10000
-	explode "smoke" 40
-	explode "bolide" 40
-	explode "asteroid crunch large"
+	explode "asteroid crunch medium"
 	
 minable "Granite"
 	"display name" "Granite"

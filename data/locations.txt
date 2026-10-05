@@ -76,6 +76,7 @@ system "Alnilam"
 	add minables "Schist" 4 12
 	add minables "Basalt" 16 8
 	add minables "Coal" 9 8
+	add minables "Zinc" 9 8
 
 system "Alphard"
 	add minables "Zirconium" 2 10
@@ -86,6 +87,9 @@ system "Alpheratz"
 system "Alpherg"
 	add minables "Schist" 4 13
 	add minables "Scrap Metals" 2 10
+
+system "Altair"
+	add minables "Plutonium" 1 3
 
 system "Aludra"
 	add minables "Palladium" 3 10
@@ -128,6 +132,7 @@ system "Belenos"
 
 system "Bellatrix"
 	add minables "Schist" 4 10
+	add minables "Zinc" 4 10
 
 system "Beta Lupi"
 	add minables "Vanadium" 1 11
@@ -177,6 +182,7 @@ system "Durax"
 system "Eber"
 	add minables "Vanadium" 1 5
 	add minables "Calcium" 6 10
+	add minables "Plutonium" 1 4
 
 system "Elnath"
 	add minables "Hematite" 9 12
@@ -204,6 +210,7 @@ system "Gacrux"
 
 system "Gamma Cassiopeiae"
 	add minables "Gallium" 3 11
+	add minables "Plutonium" 1 4
 
 system "Gienah"
 	add minables "Scrap Metals" 2 11
@@ -414,6 +421,7 @@ system "Suhail"
 
 system "Sumar"
 	add minables "Sulfur" 2 8
+	add minables "Plutonium" 1 6
 
 system "Tais"
 	add minables "Zirconium" 2 9

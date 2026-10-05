@@ -14,6 +14,17 @@
 # This program was coded using ChemtrailOperator's EndlessSkyDark N++ UDL. Available on the wiki for this plugin.
 
 #Elements Added
+
+outfit "Chromium"
+	cost 2000
+	plural "Chromium"
+	thumbnail "outfit/harvested chromium"
+	"flotsam sprite" "effect/flotsam chromium"
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description "Chromium is essential to the production of Stainless Steel, and it is also useful because it reflects a significant portion of the visible spectrum. This demand in both the cosmetic and manufacturing worlds make it more valuable than one might think."
 	
 outfit "Osmium"
 	cost 11000
@@ -69,7 +80,7 @@ outfit "Plutonium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Plutonium is a silvery grey metal that tarnishes quickly. It is also extremely radioactive, and the most common choice for fission reactors in ships and power stations. The most reactive isotope, Plutonium-239, is quite useful for weapons, so all Plutonium is heavily regulated all human governments. Being caught with unregistered Plutonium samples can result in a hefty fine, or jail time. Small pieces of Plutonium can be found in scrap metal drifting throughout space as the leftovers of reactors, batteries, and weapons."
+	description "Plutonium is a silvery grey metal that tarnishes quickly. It is also extremely radioactive, and the most common choice for fission reactors in ships and power stations. The most reactive isotope, Plutonium-239, is also quite useful for weapons, so all Plutonium is heavily regulated all human governments. Being caught with unregistered Plutonium samples can result in a hefty fine, or jail time. Small pieces of Plutonium can be found in scrap metal drifting throughout space as the leftovers of reactors, batteries, and weapons. In rare areas there are true Plutonium asteroids, but they are generally avoided because of legal repurcussions."
 	
 outfit "Manganite"
 	cost 500
@@ -171,7 +182,7 @@ outfit "Nickel"
 	description "Nickel is used in batteries and metal alloys. It is also a necessary component in atomic engines."
 	
 outfit "Beryllium"
-	cost 500
+	cost 1000
 	plural "Beryllium"
 	thumbnail "outfit/harvested beryllium"
 	"flotsam sprite" "effect/flotsam beryllium"
@@ -179,7 +190,7 @@ outfit "Beryllium"
 	"minable" 1
 	"installable" -1
 	mass 1
-	description "Beyllium is a hard and brittle material, it is useful in various scientific applications and it is valuable because of its rarity."
+	description "Beryllium is a hard and brittle material, it is only useful in various scientific applications but its value is increased by its rarity."
 
 # Compounds Added
 	
@@ -226,6 +237,17 @@ outfit "Granite"
 	"installable" -1
 	mass 1
 	description "Granite is mostly composed of Silicon, and its beautiful appearance makes it popular for use in buildings on planets, but it is too heavy and brittle to be of much use in a spaceship."
+	
+outfit "Calcium"
+	cost 500
+	plural "Calcium"
+	thumbnail "outfit/harvested calcium"
+	"flotsam sprite" "effect/flotsam calcium"
+	category "Minerals"
+	"minable" 1
+	"installable" -1
+	mass 1
+	description "Calcium is a boring, common, and uninteresting metal, but it is common to many forms of life."
 	
 outfit "Hematite"
 	cost 100
